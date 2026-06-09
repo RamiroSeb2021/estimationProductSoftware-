@@ -34,11 +34,11 @@ Chain strategy: pending
 
 ## Phase 1: Foundation — Shared Infrastructure (PR 1 scope)
 
-- [ ] 1.1 Verify `docs/skill-style-guide.md` exists and is readable; confirm section order and token-budget rules are in place before any skill is written.
-- [ ] 1.2 Create `skills/software-product-estimation/` directory and `skills/software-product-estimation/references/` directory.
-- [ ] 1.3 Create `skills/software-product-estimation/SKILL.md` — router skill with frontmatter, Activation Contract, Hard Rules (false-precision guard, size-before-duration boundary), Decision Gates (6-route table), Execution Steps, Output Contract, References.
-- [ ] 1.4 Create `skills/software-product-estimation/references/router-decision-tree.md` — full routing rules with minimum required inputs per route.
-- [ ] 1.5 Create `skills/software-product-estimation/references/meeting-notes.md` — transcript-derived concepts marked `[ILLUSTRATIVE — not validated external standard]`.
+- [x] 1.1 Verify `docs/skill-style-guide.md` exists and is readable; confirm section order and token-budget rules are in place before any skill is written.
+- [x] 1.2 Create `skills/software-product-estimation/` directory and `skills/software-product-estimation/references/` directory.
+- [x] 1.3 Create `skills/software-product-estimation/SKILL.md` — router skill with frontmatter, Activation Contract, Hard Rules (false-precision guard, size-before-duration boundary), Decision Gates (6-route table), Execution Steps, Output Contract, References.
+- [x] 1.4 Create `skills/software-product-estimation/references/router-decision-tree.md` — full routing rules with minimum required inputs per route.
+- [x] 1.5 Create `skills/software-product-estimation/references/meeting-notes.md` — transcript-derived concepts marked `[ILLUSTRATIVE — not validated external standard]`.
 
 ## Phase 2: Core Method Skills — Discovery, Agile, Proxy, FP (PR 2 scope)
 
