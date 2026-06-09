@@ -1,0 +1,4772 @@
+WEBVTT
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/20-0
+00:00:03.406 --> 00:00:03.486
+<v Andres Hurtado>Sí.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/47-0
+00:00:05.126 --> 00:00:12.032
+<v Andres Hurtado>De la transmisión en la oficina hoy,
+contextualizando el la charla como tal de</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/47-1
+00:00:12.032 --> 00:00:15.966
+<v Andres Hurtado>hoy,
+hoy tenemos un invitado súper especial.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/70-0
+00:00:17.366 --> 00:00:24.116
+<v Andres Hurtado>Que nos va a estar desarrollando el
+tópico relacionado con la estimación de</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/70-1
+00:00:24.116 --> 00:00:28.646
+<v Andres Hurtado>productos de software.
+Entonces bienvenido Andrés.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/91-0
+00:00:31.686 --> 00:00:40.185
+<v Andres Hurtado>Hola, soy Andrés, como decía mi compañero,
+hoy va a dar la charla relacionada con</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/91-1
+00:00:40.185 --> 00:00:41.326
+<v Andres Hurtado>estimación.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/155-0
+00:00:42.886 --> 00:00:48.353
+<v Andres Hurtado>¿Y pues digamos que traiga el el tópico,
+digamos que siempre uno le están</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/155-1
+00:00:48.353 --> 00:00:52.564
+<v Andres Hurtado>preguntando cuando le colocan algún
+alguna alguna tarea,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/155-2
+00:00:52.564 --> 00:00:57.809
+<v Andres Hurtado>algún proyecto es oiga, y cuántos?
+¿Y como para cuando eso va a estar,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/155-3
+00:00:57.809 --> 00:01:02.686
+<v Andres Hurtado>eso qué tan grande es?
+¿Cuánto dura para cuándo vamos a terminar?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/184-0
+00:01:03.366 --> 00:01:10.771
+<v Andres Hurtado>Entonces es el tópico que pues que hoy en
+día vamos a precisamente en esta charla</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/184-1
+00:01:10.771 --> 00:01:17.726
+<v Andres Hurtado>la vamos a revisar y quiero confirmar con
+ustedes que están viendo el slide.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/191-0
+00:01:21.326 --> 00:01:22.926
+<v Brandon Ardila>En remotos y andres.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/194-0
+00:01:24.446 --> 00:01:25.246
+<v Andres Hurtado>Vale super.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/217-0
+00:01:29.406 --> 00:01:33.969
+<v Andres Hurtado>¿Listo, bien, Sebastian,
+me confirmas de pronto? Digamos si hay,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/217-1
+00:01:33.969 --> 00:01:36.286
+<v Andres Hurtado>bueno, si hay personas en sala y.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/226-0
+00:01:37.726 --> 00:01:40.286
+<v Andres Hurtado>Y sí, están viendo los slides.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/270-0
+00:01:40.846 --> 00:01:43.301
+<v Sebastian Barros>Sí, sí, ya,
+ya estoy conectando la la pantalla,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/270-1
+00:01:43.301 --> 00:01:47.086
+<v Sebastian Barros>pero pues sí los estamos llamando todos
+porque están como como embalados.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/271-0
+00:01:48.926 --> 00:01:53.155
+<v Andres Hurtado>¿Listo? Alex sí, aquí vamos avanzando,
+digamos en unos unos temas motivacionales</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/271-1
+00:01:53.155 --> 00:01:53.886
+<v Andres Hurtado>de esta parte.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/332-0
+00:01:55.366 --> 00:01:59.194
+<v Andres Hurtado>¿Listo entonces,
+pues estas son el conjunto de preguntas</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/332-1
+00:01:59.194 --> 00:02:04.098
+<v Andres Hurtado>que nos comienzan a realizar,
+qué tan grande es lo que vamos a realizar?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/332-2
+00:02:04.098 --> 00:02:08.464
+<v Andres Hurtado>¿Cuánto dura, cuánto cuesta,
+cuánta gente vamos a colocar en ese</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/332-3
+00:02:08.464 --> 00:02:11.486
+<v Andres Hurtado>proyecto?
+¿Y como para cuándo va a estar eso</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/332-4
+00:02:11.486 --> 00:02:13.166
+<v Andres Hurtado>entonces esto finalmente?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/387-0
+00:02:14.646 --> 00:02:19.523
+<v Andres Hurtado>Finalmente entonces en la cabeza.
+Uno tiene pues, o el cliente, digamos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/387-1
+00:02:19.523 --> 00:02:24.534
+<v Andres Hurtado>tiene su, pues tiene su problema,
+tiene su espacio como tal de solución de</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/387-2
+00:02:24.534 --> 00:02:27.741
+<v Andres Hurtado>lo que se imagina que le satisface su
+problema,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/387-3
+00:02:27.741 --> 00:02:33.086
+<v Andres Hurtado>y eso es una serie de requisitos deseados
+con base en esos requisitos deseados.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/467-0
+00:02:33.606 --> 00:02:38.904
+<v Andres Hurtado>Pues la idea es poder estimar qué tan
+grande o qué tan pequeño es eso que vamos</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/467-1
+00:02:38.904 --> 00:02:41.885
+<v Andres Hurtado>a eso que vamos AA construir
+posteriormente,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/467-2
+00:02:41.885 --> 00:02:47.382
+<v Andres Hurtado>digamos teniendo en cuenta como el tamaño
+o el o la Concepción de qué tan grande y</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/467-3
+00:02:47.382 --> 00:02:52.284
+<v Andres Hurtado>qué tan pequeño es dar una duración y al
+final lo que nos van AA poder AA</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/467-4
+00:02:52.284 --> 00:02:55.198
+<v Andres Hurtado>solicitar,
+pues es un es que o sea digamos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/467-5
+00:02:55.198 --> 00:02:56.126
+<v Andres Hurtado>no organizado.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/526-0
+00:02:56.446 --> 00:03:01.492
+<v Andres Hurtado>Son de las actividades,
+de forma tal que demos un tiempo para</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/526-1
+00:03:01.492 --> 00:03:07.923
+<v Andres Hurtado>poderla para poder realizar como tal la
+entrega de lo que nos comprometimos YY</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/526-2
+00:03:07.923 --> 00:03:12.726
+<v Andres Hurtado>para para este tipo de mecánica hay
+diversidad de métodos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/526-3
+00:03:12.726 --> 00:03:17.366
+<v Andres Hurtado>aquí vamos AA abordar algunos,
+vamos a colocar, digamos.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/564-0
+00:03:18.206 --> 00:03:23.320
+<v Andres Hurtado>Como los como los más identificables para
+poder realizar la estimación,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/564-1
+00:03:23.320 --> 00:03:28.293
+<v Andres Hurtado>comenzando con el primero, pues que es,
+digamos, a juicio de experto.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/564-2
+00:03:28.293 --> 00:03:31.206
+<v Andres Hurtado>O es lo que se denomina un método Delphi.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/642-0
+00:03:32.526 --> 00:03:37.952
+<v Andres Hurtado>¿De forma tal que pues, bueno, o sea,
+qué podría realizar alguien que quiere</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/642-1
+00:03:37.952 --> 00:03:43.590
+<v Andres Hurtado>saber cuáles son, cuáles son, cuánto,
+cuánto cuesta, cuánto demora un proyecto?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/642-2
+00:03:43.590 --> 00:03:47.185
+<v Andres Hurtado>Pues le va.
+Le va preguntando a los expertos más o</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/642-3
+00:03:47.185 --> 00:03:52.541
+<v Andres Hurtado>menos si hay proyectos similares que han
+realizado y haga su estimación por</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/642-4
+00:03:52.541 --> 00:03:53.246
+<v Andres Hurtado>individuo.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/720-0
+00:03:53.766 --> 00:03:56.916
+<v Andres Hurtado>Pero entonces, bueno, o sea,
+digamos que ahí puede contrastar,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/720-1
+00:03:56.916 --> 00:04:00.366
+<v Andres Hurtado>tiene que tiene que mirar,
+digamos que esté comparando cosas que son</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/720-2
+00:04:00.366 --> 00:04:04.366
+<v Andres Hurtado>similares. Entonces ahí digamos que viene,
+que que que viene la la la cuestión.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/720-3
+00:04:04.366 --> 00:04:06.616
+<v Andres Hurtado>Entonces usted me pregunta por tal
+proyecto.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/720-4
+00:04:06.616 --> 00:04:10.816
+<v Andres Hurtado>Nosotros hicimos uno más o menos parecido,
+entonces comienzan a jugar con analogías</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/720-5
+00:04:10.816 --> 00:04:13.166
+<v Andres Hurtado>y nos demoramos más o menos alrededor de
+esto.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/780-0
+00:04:13.886 --> 00:04:17.481
+<v Andres Hurtado>A otros les puede decir, no,
+pues digamos que la temática de este</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/780-1
+00:04:17.481 --> 00:04:21.241
+<v Andres Hurtado>proyecto fue un poquito más relacionada
+con inteligencia artificial.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/780-2
+00:04:21.241 --> 00:04:25.763
+<v Andres Hurtado>Incorporamos tales tales elementos y con
+base en eso entonces nos dio una duración</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/780-3
+00:04:25.763 --> 00:04:28.378
+<v Andres Hurtado>de tanto.
+Entonces es recabar sobre el sobre el</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/780-4
+00:04:28.378 --> 00:04:29.686
+<v Andres Hurtado>conjunto de de expertos.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/802-0
+00:04:31.166 --> 00:04:33.710
+<v Andres Hurtado>A ver,
+como que tan grande que tan pequeña es la</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/802-1
+00:04:33.710 --> 00:04:37.606
+<v Andres Hurtado>solución y si es más o menos parecida a
+lo que nos están pidiendo estimar.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/904-0
+00:04:38.886 --> 00:04:41.353
+<v Andres Hurtado>Hay otro,
+digamos un poco más formal que digamos</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/904-1
+00:04:41.353 --> 00:04:44.727
+<v Andres Hurtado>que ya examina y se pone,
+digamos como los pantalones de de lo que</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/904-2
+00:04:44.727 --> 00:04:47.296
+<v Andres Hurtado>realmente hay que atacar,
+que son function points,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/904-3
+00:04:47.296 --> 00:04:50.770
+<v Andres Hurtado>que lo vamos a ver, digamos al final,
+pero pues digamos que la idea,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/904-4
+00:04:50.770 --> 00:04:53.742
+<v Andres Hurtado>digamos ya es ver, oigan, no,
+no es que sea algo parecido,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/904-5
+00:04:53.742 --> 00:04:57.317
+<v Andres Hurtado>sino que yo tengo es que ver la
+estructura de lo que tengo que montar,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/904-6
+00:04:57.317 --> 00:04:59.886
+<v Andres Hurtado>ver si los bloques constitutivos del
+problema son.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/992-0
+00:05:00.366 --> 00:05:03.394
+<v Andres Hurtado>Lo que usted quiere estimar y, en efecto,
+sobre eso,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/992-1
+00:05:03.394 --> 00:05:06.137
+<v Andres Hurtado>yo le doy algo un poco más fundado,
+no digamos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/992-2
+00:05:06.137 --> 00:05:10.366
+<v Andres Hurtado>es algo que sea medio parecido,
+porque dentro de la o sea el demonio está</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/992-3
+00:05:10.366 --> 00:05:14.766
+<v Andres Hurtado>ahí como tal en los detalles y eso
+digamos que lo lo hemos sufrido bastante.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/992-4
+00:05:14.766 --> 00:05:18.194
+<v Andres Hurtado>En los proyectos.
+Hay algún requisito por allá recabado que</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/992-5
+00:05:18.194 --> 00:05:21.166
+<v Andres Hurtado>que aparece,
+no lo contemplamos al inicio y después</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/992-6
+00:05:21.166 --> 00:05:24.766
+<v Andres Hurtado>nos saca los pelos de punta para poder
+realizar la estimación.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1060-0
+00:05:26.526 --> 00:05:31.513
+<v Andres Hurtado>Hay otros métodos que son basados como en
+proxy. Entonces lo que lo que se hace es,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1060-1
+00:05:31.513 --> 00:05:35.491
+<v Andres Hurtado>digamos como modularmente,
+saber cómo qué tanto cuesta cada uno de</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1060-2
+00:05:35.491 --> 00:05:39.707
+<v Andres Hurtado>los módulos y con base en eso,
+pues digamos que se espera equiparar el</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1060-3
+00:05:39.707 --> 00:05:42.379
+<v Andres Hurtado>desarrollo que nos están pidiendo o
+estimar,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1060-4
+00:05:42.379 --> 00:05:45.526
+<v Andres Hurtado>o el o el o el scope que nos están
+pidiendo estimar.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1129-0
+00:05:45.966 --> 00:05:49.198
+<v Andres Hurtado>Y hay otra estimación, digamos,
+más relacionada, digamos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1129-1
+00:05:49.198 --> 00:05:52.542
+<v Andres Hurtado>como con el mundo ágil,
+entonces lo que hacemos es estimar,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1129-2
+00:05:52.542 --> 00:05:55.886
+<v Andres Hurtado>digamos en general,
+y qué es lo que tenemos que realizar es</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1129-3
+00:05:55.886 --> 00:06:00.511
+<v Andres Hurtado>iteración tras iteración con base en eso,
+a juicio de pequeños expertos dentro del</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1129-4
+00:06:00.511 --> 00:06:03.632
+<v Andres Hurtado>dominio que ya sabemos sobre el proyecto
+en específico,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1129-5
+00:06:03.632 --> 00:06:05.806
+<v Andres Hurtado>sobre la parte que estábamos modelando.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1198-0
+00:06:06.126 --> 00:06:10.307
+<v Andres Hurtado>Hacemos una estimación un poco más
+granular y generamos como tal un</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1198-1
+00:06:10.307 --> 00:06:15.165
+<v Andres Hurtado>incremento al final de la iteración,
+más que solo completar la tarea es llegar</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1198-2
+00:06:15.165 --> 00:06:18.301
+<v Andres Hurtado>como un shippud product.
+Al final de la iteración,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1198-3
+00:06:18.301 --> 00:06:21.437
+<v Andres Hurtado>de forma tal que nos dé un incremento YY
+al final,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1198-4
+00:06:21.437 --> 00:06:25.926
+<v Andres Hurtado>pues digamos que la estimación va a ser
+el total de cuantas iteraciones.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1247-0
+00:06:26.206 --> 00:06:30.905
+<v Andres Hurtado>Me voy a demorar para poder construir ese
+producto deseado, pero lo importante,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1247-1
+00:06:30.905 --> 00:06:35.369
+<v Andres Hurtado>digamos en este tipo de técnicas es que
+al final se va con interacción tras</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1247-2
+00:06:35.369 --> 00:06:38.306
+<v Andres Hurtado>iteración.
+El cliente digamos que ve reflejado el</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1247-3
+00:06:38.306 --> 00:06:41.126
+<v Andres Hurtado>valor alrededor del tiempo de esa de esa
+tarea.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1346-0
+00:06:43.606 --> 00:06:48.313
+<v Andres Hurtado>Listo, buenoel.es a tener en cuenta,
+digamos que en general en este conjunto</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1346-1
+00:06:48.313 --> 00:06:53.020
+<v Andres Hurtado>de de de estrategias de estimación,
+porque digamos que realmente son muchos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1346-2
+00:06:53.020 --> 00:06:57.789
+<v Andres Hurtado>muchos tipos de estimación de los que
+tenemos YY yo realmente digamos que les</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1346-3
+00:06:57.789 --> 00:07:01.702
+<v Andres Hurtado>voy a dar como tilde,
+digamos ese tipo de métodos que es lo que</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1346-4
+00:07:01.702 --> 00:07:05.064
+<v Andres Hurtado>persiguen. OO,
+cómo lo cómo lo realice para que cuando</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1346-5
+00:07:05.064 --> 00:07:08.366
+<v Andres Hurtado>se enfrenten a la estimación de algún
+producto, pues.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1387-0
+00:07:08.846 --> 00:07:13.902
+<v Andres Hurtado>Tengan como las herramientas suficientes
+para poderlo realizar YY lo primero lo el</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1387-1
+00:07:13.902 --> 00:07:18.776
+<v Andres Hurtado>primer punto que tenemos que tener en
+cuenta es tener cierta estabilidad en los</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1387-2
+00:07:18.776 --> 00:07:20.726
+<v Andres Hurtado>requisitos, entonces digamos si.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1450-0
+00:07:22.206 --> 00:07:28.536
+<v Andres Hurtado>Si tenemos unos requisitos más estables,
+va a ser un poco más preciso saber qué es</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1450-1
+00:07:28.536 --> 00:07:33.570
+<v Andres Hurtado>lo que el cliente quiere. De esta forma,
+de esta forma, a su vez,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1450-2
+00:07:33.570 --> 00:07:39.672
+<v Andres Hurtado>pues podemos estimar mucho mejor el el,
+el producto si no hay tanta estabilidad</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1450-3
+00:07:39.672 --> 00:07:43.486
+<v Andres Hurtado>en los requisitos,
+nos pueden variar en la mitad.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1539-0
+00:07:43.926 --> 00:07:48.535
+<v Andres Hurtado>Algo que creíamos que era muy chiquito y
+resultó ser un Goliat ahí metido en la</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1539-1
+00:07:48.535 --> 00:07:51.415
+<v Andres Hurtado>solución.
+Otro de los puntos a tener en cuenta es</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1539-2
+00:07:51.415 --> 00:07:54.353
+<v Andres Hurtado>tener el contexto,
+dominio o el modelo conceptual.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1539-3
+00:07:54.353 --> 00:07:58.674
+<v Andres Hurtado>Es lo que le llamamos el espacio del
+problema y el espacio de la solución.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1539-4
+00:07:58.674 --> 00:08:02.246
+<v Andres Hurtado>Tenerlos muy claros.
+¿Qué es lo que intenta solucionar el el,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1539-5
+00:08:02.246 --> 00:08:06.164
+<v Andres Hurtado>el, el negocio, qué es, digamos,
+lo que o sea con nuestra solución,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1539-6
+00:08:06.164 --> 00:08:07.086
+<v Andres Hurtado>lo que le damos?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1603-0
+00:08:08.366 --> 00:08:12.843
+<v Andres Hurtado>O sea, AA qué pedazo le llego,
+cuál es el scope que estamos trabajando</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1603-1
+00:08:12.843 --> 00:08:17.635
+<v Andres Hurtado>de forma tal que pues este digamos,
+estable y planeado en unos requisitos y</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1603-2
+00:08:17.635 --> 00:08:21.671
+<v Andres Hurtado>el tamaño como tal del es donde nos
+digamos que nos nos señala,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1603-3
+00:08:21.671 --> 00:08:26.400
+<v Andres Hurtado>digamos que tan grande o que tan pequeño
+es el proyecto también digamos es</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1603-4
+00:08:26.400 --> 00:08:28.166
+<v Andres Hurtado>importante, por ejemplo, si.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1671-0
+00:08:28.606 --> 00:08:31.422
+<v Andres Hurtado>Si alrededor de, por ejemplo,
+digamos en Blend,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1671-1
+00:08:31.422 --> 00:08:36.056
+<v Andres Hurtado>si hemos desarrollado proyectos más o
+menos similares y tenemos experiencia en</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1671-2
+00:08:36.056 --> 00:08:39.752
+<v Andres Hurtado>proyectos anteriores,
+pues la idea es tratar de reutilizar OO,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1671-3
+00:08:39.752 --> 00:08:43.918
+<v Andres Hurtado>tener la experiencia en proyectos
+anteriores y esto nos dio resultado,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1671-4
+00:08:43.918 --> 00:08:47.086
+<v Andres Hurtado>pues cogerlo porque es digamos una
+analogía y nos da.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1682-0
+00:08:48.246 --> 00:08:51.990
+<v Andres Hurtado>¿Cómo nos permite ilusiar?
+¿Cuál es el tamaño de lo que queremos</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1682-1
+00:08:51.990 --> 00:08:52.566
+<v Andres Hurtado>construir?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1784-0
+00:08:53.646 --> 00:08:56.607
+<v Andres Hurtado>Finalmente,
+pues digamos que si es un producto muy</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1784-1
+00:08:56.607 --> 00:08:59.510
+<v Andres Hurtado>grande,
+pues la idea es descomponerlo en pequeñas</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1784-2
+00:08:59.510 --> 00:09:03.982
+<v Andres Hurtado>partes y tratar, digamos, de dilucidar,
+estimar como por pequeñas porciones.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1784-3
+00:09:03.982 --> 00:09:06.827
+<v Andres Hurtado>Eso también,
+digamos que ayuda a esa estimación.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1784-4
+00:09:06.827 --> 00:09:09.788
+<v Andres Hurtado>Otra de las cosas,
+pues que digamos ya ya después,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1784-5
+00:09:09.788 --> 00:09:14.376
+<v Andres Hurtado>cuando cuando estimamos un proyecto y
+tampoco la idea es que se sobre, estime,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1784-6
+00:09:14.376 --> 00:09:17.221
+<v Andres Hurtado>es tener,
+digamos como el el concepto en que una</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1784-7
+00:09:17.221 --> 00:09:17.686
+<v Andres Hurtado>persona.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1877-0
+00:09:18.046 --> 00:09:21.975
+<v Andres Hurtado>¿Si realmente está a las 8:00 8 o 9 horas,
+nalgas, sentadas en unas,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1877-1
+00:09:21.975 --> 00:09:26.132
+<v Andres Hurtado>si eso casi nunca ocurre OA veces no le
+llega la Musa de la inspiración,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1877-2
+00:09:26.132 --> 00:09:29.947
+<v Andres Hurtado>se le fue por allá para otro lado?
+No la encontró, no la taó y no,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1877-3
+00:09:29.947 --> 00:09:32.680
+<v Andres Hurtado>no la encuentra en ningún lado, digamos,
+bueno,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1877-4
+00:09:32.680 --> 00:09:37.293
+<v Andres Hurtado>si tiene algún conjunto de herramientas
+de hoy, por ejemplo, digamos hoy en día,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1877-5
+00:09:37.293 --> 00:09:41.905
+<v Andres Hurtado>con la partida degenerativa, eso digamos.
+También puede contrastar en general el</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1877-6
+00:09:41.905 --> 00:09:42.646
+<v Andres Hurtado>apoyo que se.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1938-0
+00:09:43.046 --> 00:09:47.174
+<v Andres Hurtado>¿Que se tiene para las las herramientas
+que se pueden, o sea,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1938-1
+00:09:47.174 --> 00:09:52.101
+<v Andres Hurtado>también ser consciente que que muchas
+veces cuando a veces entonces oiga,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1938-2
+00:09:52.101 --> 00:09:57.028
+<v Andres Hurtado>y si le nos hacen la pregunta, oiga,
+y si yo le coloco más recursos a ese</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1938-3
+00:09:57.028 --> 00:10:01.822
+<v Andres Hurtado>proyecto? ¿Será que terminamos más rápido?
+A veces puede ser un, o sea,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/1938-4
+00:10:01.822 --> 00:10:04.486
+<v Andres Hurtado>a veces puede ser un arma de doble FILO.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2018-0
+00:10:05.646 --> 00:10:08.970
+<v Andres Hurtado>Y digamos hay,
+viene como la analogía de lo que siempre</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2018-1
+00:10:08.970 --> 00:10:11.997
+<v Andres Hurtado>dicen es que 9 mujeres nacen en un niño
+en un mes,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2018-2
+00:10:11.997 --> 00:10:16.865
+<v Andres Hurtado>entonces pues digamos que hay cosas que
+sí requieren como su su tiempo para poder</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2018-3
+00:10:16.865 --> 00:10:20.308
+<v Andres Hurtado>ser elaboradas y teniendo en cuenta la
+fase del proyecto,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2018-4
+00:10:20.308 --> 00:10:24.997
+<v Andres Hurtado>muchas veces a veces es contraproducente
+agregar recursos como tal al proyecto</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2018-5
+00:10:24.997 --> 00:10:27.966
+<v Andres Hurtado>dentro del desarrollo del proyecto,
+más que todo.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2101-0
+00:10:28.286 --> 00:10:31.590
+<v Andres Hurtado>Finalizarlo. ¿Por qué?
+Porque eso digamos que se se vuelve, oiga,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2101-1
+00:10:31.590 --> 00:10:35.646
+<v Andres Hurtado>yo tengo que retroalimentar a la gente
+que me llega de forma tal que yo le pueda</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2101-2
+00:10:35.646 --> 00:10:39.001
+<v Andres Hurtado>decir que esa es mi mi idea del proyecto
+para que me pueda ayudar.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2101-3
+00:10:39.001 --> 00:10:42.005
+<v Andres Hurtado>Pero eso digamos también me cuesta.
+Entonces, pues hay ese,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2101-4
+00:10:42.005 --> 00:10:46.011
+<v Andres Hurtado>pues es un punto importante como tal a
+tener en cuenta también las relaciones o</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2101-5
+00:10:46.011 --> 00:10:49.366
+<v Andres Hurtado>intercomunicaciones en que hay.
+Pues digamos yo coloco el ejemplo.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2185-0
+00:10:49.726 --> 00:10:53.091
+<v Andres Hurtado>¿En que, por ejemplo,
+cuando estoy únicamente con mi hijo,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2185-1
+00:10:53.091 --> 00:10:55.886
+<v Andres Hurtado>pues es muchísimo más fácil guiarlo
+llevarlo en,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2185-2
+00:10:55.886 --> 00:10:59.993
+<v Andres Hurtado>no sé si vamos a ir a algún lado a
+realizar alguna actividad que cuando</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2185-3
+00:10:59.993 --> 00:11:02.845
+<v Andres Hurtado>estoy con mis 2 hijos,
+porque pues digamos los 2,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2185-4
+00:11:02.845 --> 00:11:07.124
+<v Andres Hurtado>se pueden poner a pelear, discuten?
+Tengo que relacionarme con cada uno de</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2185-5
+00:11:07.124 --> 00:11:09.805
+<v Andres Hurtado>ellos,
+entonces pues son diferentes relaciones</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2185-6
+00:11:09.805 --> 00:11:12.486
+<v Andres Hurtado>de comunicación,
+lo cual es digamos entre más.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2244-0
+00:11:12.926 --> 00:11:16.547
+<v Andres Hurtado>Integrantes en el en el TEAM pie.
+Pues digamos que es, o sea,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2244-1
+00:11:16.547 --> 00:11:19.643
+<v Andres Hurtado>es digamos de la parte de la teoría de
+comunicación,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2244-2
+00:11:19.643 --> 00:11:23.732
+<v Andres Hurtado>es el conjunto de de relaciones que se
+están creando ahí, y pues eso,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2244-3
+00:11:23.732 --> 00:11:27.588
+<v Andres Hurtado>digamos de alguna forma,
+presenta una latencia en el DELIVERY del</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2244-4
+00:11:27.588 --> 00:11:32.086
+<v Andres Hurtado>del del del producto que se quiere
+realizar, y finalmente, pues digamos que.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2342-0
+00:11:34.966 --> 00:11:39.497
+<v Andres Hurtado>Cuando estamos realizando una estimación,
+solamente solamente sabemos el tiempo que</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2342-1
+00:11:39.497 --> 00:11:43.166
+<v Andres Hurtado>nos gastamos al final del proyecto
+entonces, pero eso no nos sirve,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2342-2
+00:11:43.166 --> 00:11:45.648
+<v Andres Hurtado>digamos al final del proyecto, decirle,
+oiga,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2342-3
+00:11:45.648 --> 00:11:49.748
+<v Andres Hurtado>es que yo me gasté en 9 meses y usted
+solamente me dio el resultado a los 8</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2342-4
+00:11:49.748 --> 00:11:52.122
+<v Andres Hurtado>meses y 29 días de lo que se iba a
+demorar,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2342-5
+00:11:52.122 --> 00:11:56.222
+<v Andres Hurtado>pues digamos que así se maneja como
+cierto valor de incertidumbre y pues la</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2342-6
+00:11:56.222 --> 00:11:57.086
+<v Andres Hurtado>idea digamos es.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2447-0
+00:11:57.126 --> 00:12:01.840
+<v Andres Hurtado>Que estos estimados nos ayuden como AO
+sea como que el cliente se se tenga como</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2447-1
+00:12:01.840 --> 00:12:06.613
+<v Andres Hurtado>una apariencia de qué tan grande es lo
+que se construye y pues AAAA nosotros nos</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2447-2
+00:12:06.613 --> 00:12:11.386
+<v Andres Hurtado>ayude para desarrollar los cálculos desde
+el producto final AAA devolvernos para</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2447-3
+00:12:11.386 --> 00:12:15.805
+<v Andres Hurtado>poderle cumplir otro de los puntos
+también que tenemos que tener en cuenta</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2447-4
+00:12:15.805 --> 00:12:19.636
+<v Andres Hurtado>es los no funcionales,
+y este digamos que toca tenerlo en cuenta</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2447-5
+00:12:19.636 --> 00:12:21.286
+<v Andres Hurtado>con con bastante delicadeza.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2514-0
+00:12:21.566 --> 00:12:25.669
+<v Andres Hurtado>Es diferente, de pronto soportar,
+digamos la carga o realizar un producto</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2514-1
+00:12:25.669 --> 00:12:29.938
+<v Andres Hurtado>que atiende XOY usuarios que una cantidad
+masiva de como tal de ellos y esto</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2514-2
+00:12:29.938 --> 00:12:33.154
+<v Andres Hurtado>digamos que puede,
+puede que puede alterar la forma en la</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2514-3
+00:12:33.154 --> 00:12:36.425
+<v Andres Hurtado>cual desarrollamos como tal las el
+conjunto de soluciones.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2514-4
+00:12:36.425 --> 00:12:40.806
+<v Andres Hurtado>Entonces digamos que en los puntos no
+funcionales que hay que tener en cuenta.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2539-0
+00:12:41.286 --> 00:12:44.429
+<v Andres Hurtado>Que nos van a subir digamos el peso en el
+desarrollo,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2539-1
+00:12:44.429 --> 00:12:49.085
+<v Andres Hurtado>digamos de algunas actividades para que
+los consideremos como como un resultado</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2539-2
+00:12:49.085 --> 00:12:50.366
+<v Andres Hurtado>total de del proyecto.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2623-0
+00:12:52.846 --> 00:12:58.129
+<v Andres Hurtado>Esto es aquí como lo que lo que decíamos
+de cómo descomponer. Pero si queremos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2623-1
+00:12:58.129 --> 00:13:03.347
+<v Andres Hurtado>por ejemplo, hacer un viaje a la Luna,
+pues tenemos que comenzar reclutando un</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2623-2
+00:13:03.347 --> 00:13:07.309
+<v Andres Hurtado>equipo de trabajo.
+Tenemos unos materiales en Launching del</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2623-3
+00:13:07.309 --> 00:13:10.479
+<v Andres Hurtado>cohete,
+y pues digamos que si no sabemos cuánto</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2623-4
+00:13:10.479 --> 00:13:15.300
+<v Andres Hurtado>va a costar este lanzamiento,
+entonces nos lo comenzamos como a dividir,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2623-5
+00:13:15.300 --> 00:13:16.886
+<v Andres Hurtado>a dividir Granularmente.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2705-0
+00:13:17.566 --> 00:13:20.781
+<v Andres Hurtado>Y vemos digamos que esto dividido en
+forma de hitos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2705-1
+00:13:20.781 --> 00:13:25.272
+<v Andres Hurtado>pues nos puede ayudar como a tratar de
+descomponer la actividad que en un</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2705-2
+00:13:25.272 --> 00:13:28.670
+<v Andres Hurtado>momento el principio no teníamos ni idea
+cómo realizar,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2705-3
+00:13:28.670 --> 00:13:33.342
+<v Andres Hurtado>pero pues es importante tener en cuenta
+que para poder realizar un estimado,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2705-4
+00:13:33.342 --> 00:13:37.771
+<v Andres Hurtado>pues yo tengo que conocer como tal el
+problema antes de poderlo planear,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2705-5
+00:13:37.771 --> 00:13:39.046
+<v Andres Hurtado>eso digamos bastante.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2717-0
+00:13:39.646 --> 00:13:45.326
+<v Andres Hurtado>Bastante clave en todos los,
+en todos los estimados que hagamos y hay,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2717-1
+00:13:45.326 --> 00:13:46.766
+<v Andres Hurtado>digamos, una, una.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2782-0
+00:13:47.966 --> 00:13:54.061
+<v Andres Hurtado>Un método digamos que se que,
+que inicia precisamente con esa parte con</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2782-1
+00:13:54.061 --> 00:14:00.834
+<v Andres Hurtado>es lo que se denomina el el método pro,
+o proxy based y un proxy. ¿Básicamente,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2782-2
+00:14:00.834 --> 00:14:05.829
+<v Andres Hurtado>qué es entonces?
+¿Es por ejemplo cuando cuando yo llego YY</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2782-3
+00:14:05.829 --> 00:14:09.046
+<v Andres Hurtado>voy a cotizar un proyecto de vivienda?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2855-0
+00:14:09.526 --> 00:14:14.221
+<v Andres Hurtado>De hoy en día que que le ofrecen a uno 20
+m 40, bueno,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2855-1
+00:14:14.221 --> 00:14:20.966
+<v Andres Hurtado>pero digamos que yo voy a cotizar 1111.
+¿Inmueble para no sé para mi familia y</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2855-2
+00:14:20.966 --> 00:14:26.345
+<v Andres Hurtado>entonces allí me dicen, bueno,
+pero cómo lo quiere? De grande,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2855-3
+00:14:26.345 --> 00:14:31.126
+<v Andres Hurtado>mediano chiquito 100,
+yo no sé si son 100 M = 200 = 50.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2944-0
+00:14:31.566 --> 00:14:34.591
+<v Andres Hurtado>Pues,
+son hoy en día como los que venden 15 M.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2944-1
+00:14:34.591 --> 00:14:37.680
+<v Andres Hurtado>¿Bueno,
+pero digamos que en general me hacen es</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2944-2
+00:14:37.680 --> 00:14:41.928
+<v Andres Hurtado>algunas preguntas usted digamos,
+para cuántas personas lo quiere?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2944-3
+00:14:41.928 --> 00:14:46.433
+<v Andres Hurtado>Cuántas habitaciones quiere,
+cuántos baños, si necesita parqueaderos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2944-4
+00:14:46.433 --> 00:14:49.458
+<v Andres Hurtado>si necesita cocina, entonces eso,
+eso digamos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2944-5
+00:14:49.458 --> 00:14:54.543
+<v Andres Hurtado>es en general lo que se se denomina como
+talón proxy. Si uno digamos le dicen,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2944-6
+00:14:54.543 --> 00:14:55.766
+<v Andres Hurtado>oiga, no es que yo.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2997-0
+00:14:55.846 --> 00:15:01.001
+<v Andres Hurtado>Que un apartamento como de 2 alcobas con
+un baño, tenéis, no,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2997-1
+00:15:01.001 --> 00:15:05.242
+<v Andres Hurtado>esos son como unos no, digamos, no sé,
+unos 40 m².</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2997-2
+00:15:05.242 --> 00:15:09.234
+<v Andres Hurtado>Si no es que ya ya es una familia más
+numerosa,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/2997-3
+00:15:09.234 --> 00:15:14.806
+<v Andres Hurtado>yo requiero 3 alcobas 22 baños no,
+esos son como más o menos unos.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3060-0
+00:15:15.286 --> 00:15:20.160
+<v Andres Hurtado>80, m². Entonces, ahí ahí sí siguen,
+digamos, como la dinámica como del proxy,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3060-1
+00:15:20.160 --> 00:15:23.245
+<v Andres Hurtado>entonces,
+con base en el número de habitaciones y</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3060-2
+00:15:23.245 --> 00:15:28.304
+<v Andres Hurtado>las habitaciones son grandes, medianas,
+pequeñas y entonces digamos que eso me da</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3060-3
+00:15:28.304 --> 00:15:31.389
+<v Andres Hurtado>finalmente como la forma para llegar a un
+número,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3060-4
+00:15:31.389 --> 00:15:34.166
+<v Andres Hurtado>y eso es lo que se lo que se va a
+denominar.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3140-0
+00:15:34.766 --> 00:15:37.849
+<v Andres Hurtado>Un un proxy. Entonces,
+lo que lo que la la.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3140-1
+00:15:37.849 --> 00:15:43.667
+<v Andres Hurtado>La idea de este tipo de métodos entonces
+es que yo levanto un diseño conceptual de</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3140-2
+00:15:43.667 --> 00:15:49.554
+<v Andres Hurtado>lo que quiero construir e identifico como
+las partes de lo que quiero construir y a</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3140-3
+00:15:49.554 --> 00:15:54.810
+<v Andres Hurtado>esa a cada una de esas de esas partes le
+voy a dar un tamaño si es grande,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3140-4
+00:15:54.810 --> 00:15:59.086
+<v Andres Hurtado>mediano o pequeño.
+También tengo que mirar, por ejemplo, si.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3217-0
+00:15:59.126 --> 00:16:04.234
+<v Andres Hurtado>¿Y del si el pedazo que voy a construir
+ya estaba hecho o es una modificación?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3217-1
+00:16:04.234 --> 00:16:08.631
+<v Andres Hurtado>OO es algo totalmente nuevo que tengo que
+realizar con base en eso,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3217-2
+00:16:08.631 --> 00:16:13.674
+<v Andres Hurtado>pues digamos que doy un estimado de qué
+es lo que voy a producir y si me tocó</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3217-3
+00:16:13.674 --> 00:16:18.847
+<v Andres Hurtado>realizar o refactorizar cosas que ya que
+ya tenía posteriormente digamos que ya</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3217-4
+00:16:18.847 --> 00:16:21.046
+<v Andres Hurtado>viene toda la dinámica para poder.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3311-0
+00:16:21.326 --> 00:16:26.282
+<v Andres Hurtado>Realizar el proyecto entonces primero
+tengo los requerimientos bien claros,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3311-1
+00:16:26.282 --> 00:16:30.194
+<v Andres Hurtado>produzco un diseño conceptual de lo que
+tengo que realizar,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3311-2
+00:16:30.194 --> 00:16:35.151
+<v Andres Hurtado>lo divido en partecitas a cada partecita
+le le le le saco su tamaño y puedo</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3311-3
+00:16:35.151 --> 00:16:39.846
+<v Andres Hurtado>digamos tener como referencia un como una
+base de datos entre comillas,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3311-4
+00:16:39.846 --> 00:16:43.824
+<v Andres Hurtado>de medidas previas de, oiga,
+qué tan grande que tan mediana,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3311-5
+00:16:43.824 --> 00:16:45.846
+<v Andres Hurtado>que tan chiquito y realizar es.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3359-0
+00:16:45.926 --> 00:16:50.506
+<v Andres Hurtado>Componente y con base digamos en eso,
+ya se sacan las otras métricas.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3359-1
+00:16:50.506 --> 00:16:55.806
+<v Andres Hurtado>De cuántos recursos utilizo para poder
+colocar eso y después se les quedó y todo</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3359-2
+00:16:55.806 --> 00:17:00.909
+<v Andres Hurtado>lo que me piden en un mundo perfecto,
+pues digamos que hay digamos puntos que</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3359-3
+00:17:00.909 --> 00:17:05.162
+<v Andres Hurtado>tenemos que tener en cuenta,
+porque si me están pidiendo digamos</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3359-4
+00:17:05.162 --> 00:17:05.686
+<v Andres Hurtado>algunos.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3384-0
+00:17:07.406 --> 00:17:11.019
+<v Andres Hurtado>Requisitos no funcionales,
+pues digamos que eso también lo tenemos</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3384-1
+00:17:11.019 --> 00:17:14.686
+<v Andres Hurtado>que contrastar con el tamaño del producto
+que me están solicitando.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3470-0
+00:17:18.206 --> 00:17:23.891
+<v Andres Hurtado>Listo y más o menos digamos que este es
+como el el el ejemplo de lo que del del</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3470-1
+00:17:23.891 --> 00:17:27.445
+<v Andres Hurtado>del, de lo que veíamos,
+de lo que es un un proxy,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3470-2
+00:17:27.445 --> 00:17:32.349
+<v Andres Hurtado>entonces me si yo llego a la sala de
+venta, entonces me dicen, oiga,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3470-3
+00:17:32.349 --> 00:17:37.323
+<v Andres Hurtado>una alcoba un baño, un con cocina,
+con con sala, con, con una salita.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3470-4
+00:17:37.323 --> 00:17:41.446
+<v Andres Hurtado>Entonces, si es pequeño, mediano o grande,
+entonces esto.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3535-0
+00:17:41.726 --> 00:17:45.336
+<v Andres Hurtado>Más o menos qué tamaño en metros
+cuadrados es y con base en eso,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3535-1
+00:17:45.336 --> 00:17:48.947
+<v Andres Hurtado>pues a lo que le pregunto al usuario,
+entonces, qué tan pequeño,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3535-2
+00:17:48.947 --> 00:17:52.835
+<v Andres Hurtado>qué tan mediano, qué tan grande lo lo,
+lo lo quiere nosotros digamos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3535-3
+00:17:52.835 --> 00:17:57.335
+<v Andres Hurtado>tiene que haber algún contraste en en yo,
+como estoy recibiendo esos requisitos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3535-4
+00:17:57.335 --> 00:18:01.446
+<v Andres Hurtado>con base en lo que el cliente con lo que
+digamos en general es una forma.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3586-0
+00:18:01.806 --> 00:18:05.478
+<v Andres Hurtado>Es un es una forma como para tener cierto
+contraste,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3586-1
+00:18:05.478 --> 00:18:11.091
+<v Andres Hurtado>pero en cosas pequeñitas y parecidas que
+yo pueda que que pueda estimar de forma</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3586-2
+00:18:11.091 --> 00:18:16.219
+<v Andres Hurtado>tal que pues pueda estimar como la
+construcción en general de un todo con</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3586-3
+00:18:16.219 --> 00:18:20.862
+<v Andres Hurtado>base en los componentes,
+que lo que lo constituyes unos un todo un</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3586-4
+00:18:20.862 --> 00:18:21.486
+<v Andres Hurtado>poco más.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3611-0
+00:18:23.646 --> 00:18:27.081
+<v Andres Hurtado>Más a detalle,
+más dividido de de de componentes que me</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3611-1
+00:18:27.081 --> 00:18:30.886
+<v Andres Hurtado>pueden dar una idea como tal del problema
+al que me enfrente.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3670-0
+00:18:35.966 --> 00:18:41.343
+<v Andres Hurtado>Y hay y hay, digamos,
+un tipo de métodos que hoy en día estamos</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3670-1
+00:18:41.343 --> 00:18:45.880
+<v Andres Hurtado>utilizando,
+digamos bastante para para poder realizar</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3670-2
+00:18:45.880 --> 00:18:49.913
+<v Andres Hurtado>la estimación,
+pues teniendo en cuenta que aquí</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3670-3
+00:18:49.913 --> 00:18:54.366
+<v Andres Hurtado>prácticamente en varios de los proyectos
+utilizamos.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3748-0
+00:18:54.806 --> 00:18:59.352
+<v Andres Hurtado>¿La parte de sol que es lo que se
+denomina estimación estimación ágil</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3748-1
+00:18:59.352 --> 00:19:04.029
+<v Andres Hurtado>entonces, esta parte de estimación ágil,
+qué es lo que qué es? Digamos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3748-2
+00:19:04.029 --> 00:19:08.706
+<v Andres Hurtado>lo que qué es lo que tenemos,
+que finalmente entonces ya ya conseguí mi</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3748-3
+00:19:08.706 --> 00:19:11.954
+<v Andres Hurtado>problema,
+ya me metí en el espacio de solución de</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3748-4
+00:19:11.954 --> 00:19:14.812
+<v Andres Hurtado>de del usuario,
+ya sé qué es lo que quiere,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3748-5
+00:19:14.812 --> 00:19:17.086
+<v Andres Hurtado>me salió un backlog así grandotote.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3806-0
+00:19:17.566 --> 00:19:20.946
+<v Andres Hurtado>Y yo entonces lo voy a dividir en
+Iteraciones,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3806-1
+00:19:20.946 --> 00:19:26.627
+<v Andres Hurtado>que voy a comenzar AA trabajar a partir
+de cada una de las semanas o del de la</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3806-2
+00:19:26.627 --> 00:19:32.308
+<v Andres Hurtado>duración, digamos, de de mi, de mi,
+de mi ciclo, de de scrum. ¿Entonces listo?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3806-3
+00:19:32.308 --> 00:19:36.192
+<v Andres Hurtado>¿Ya ya prioricé,
+ya prioricé mis historias y aquí las</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3806-4
+00:19:36.192 --> 00:19:38.206
+<v Andres Hurtado>tengo, entonces por ejemplo?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3865-0
+00:19:39.166 --> 00:19:42.725
+<v Andres Hurtado>Bueno, aquí en la siguiente slide,
+voy a dar un un ejemplo,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3865-1
+00:19:42.725 --> 00:19:47.353
+<v Andres Hurtado>pero entonces digamos que lo primero que
+tengo que hacer entonces es dar como</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3865-2
+00:19:47.353 --> 00:19:51.388
+<v Andres Hurtado>comenzar a puntuar estas historias,
+comenzar a apuntar las de saber</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3865-3
+00:19:51.388 --> 00:19:55.007
+<v Andres Hurtado>finalmente qué tanto tiempo o qué tantos
+puntos, digo igual.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3865-4
+00:19:55.007 --> 00:19:58.686
+<v Andres Hurtado>Finalmente viene siendo tiempo.
+¿Qué tantos puntos me demoro?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3939-0
+00:19:59.406 --> 00:20:03.902
+<v Andres Hurtado>En poder generar un poder,
+terminar una historia después,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3939-1
+00:20:03.902 --> 00:20:09.406
+<v Andres Hurtado>entonces lo que lo que voy a hacer en esa
+dinámica de estimación ágil,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3939-2
+00:20:09.406 --> 00:20:12.817
+<v Andres Hurtado>pues es digamos,
+de discutir y reconciliar,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3939-3
+00:20:12.817 --> 00:20:18.477
+<v Andres Hurtado>entonces es la dinámica en la cual yo
+estimo, no es que el el requisito,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3939-4
+00:20:18.477 --> 00:20:23.206
+<v Andres Hurtado>la historia del usuario entonces me dice
+tal y tal concepto.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3990-0
+00:20:23.446 --> 00:20:26.626
+<v Andres Hurtado>Y yo estimo que me demoro,
+no sé 4 horas o 2 puntos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3990-1
+00:20:26.626 --> 00:20:30.946
+<v Andres Hurtado>mientras que otra persona dice no,
+yo me demoro media hora sacando eso,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3990-2
+00:20:30.946 --> 00:20:34.486
+<v Andres Hurtado>entonces, Ah, bueno,
+entonces en esas reuniones digamos de</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3990-3
+00:20:34.486 --> 00:20:38.026
+<v Andres Hurtado>planning, poker,
+una herramienta digamos que en general no</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/3990-4
+00:20:38.026 --> 00:20:41.926
+<v Andres Hurtado>se utilizaba aquí bastante y que se llama
+planning Poker Online.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4058-0
+00:20:42.126 --> 00:20:45.448
+<v Andres Hurtado>Y donde se puede realizar ese estimado y
+la idea, digamos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4058-1
+00:20:45.448 --> 00:20:48.996
+<v Andres Hurtado>es que con con una especie de barajita
+uno se pone de acuerdo,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4058-2
+00:20:48.996 --> 00:20:52.487
+<v Andres Hurtado>digamos en general,
+qué tan pesada o qué tan liviana es la es</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4058-3
+00:20:52.487 --> 00:20:57.161
+<v Andres Hurtado>la historia y con base en eso se llega a
+un común acuerdo en el Grupo de forma tal</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4058-4
+00:20:57.161 --> 00:21:00.766
+<v Andres Hurtado>de que se le da un estimado a la historia
+que estamos atacando.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4061-0
+00:21:01.686 --> 00:21:03.766
+<v Andres Hurtado>Por ejemplo, digamos que aquí hay un.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4107-0
+00:21:05.326 --> 00:21:11.729
+<v Andres Hurtado>Un ejemplo de una historia de de de
+usuario, no sé para un videojuego,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4107-1
+00:21:11.729 --> 00:21:18.314
+<v Andres Hurtado>entonces queremos, queremos mejorar,
+como la el realismo en una carrera.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4107-2
+00:21:18.314 --> 00:21:23.726
+<v Andres Hurtado>Entonces la historia de usuario dice como
+como un, como un.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4170-0
+00:21:24.126 --> 00:21:27.914
+<v Andres Hurtado>Un manejador como un un raider,
+quiero escuchar, o sea,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4170-1
+00:21:27.914 --> 00:21:32.244
+<v Andres Hurtado>quiero que me llegue,
+digamos la la cuestión de aceleración del</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4170-2
+00:21:32.244 --> 00:21:37.250
+<v Andres Hurtado>breaker en las todos los todos los
+sonidos que me llegan para que la la o</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4170-3
+00:21:37.250 --> 00:21:40.226
+<v Andres Hurtado>sea la la experiencia como tal en El
+juego.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4170-4
+00:21:40.226 --> 00:21:44.286
+<v Andres Hurtado>Yo me sienta inmerso en esa en en en una
+carrera que voy a.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4262-0
+00:21:44.726 --> 00:21:48.529
+<v Andres Hurtado>Que voy a realizar, eso es, digamos,
+una historia de usuario,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4262-1
+00:21:48.529 --> 00:21:53.436
+<v Andres Hurtado>pero entonces para para poderla realizar,
+yo puedo tener lo que se denomina los</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4262-2
+00:21:53.436 --> 00:21:57.055
+<v Andres Hurtado>habilitadores técnicos. Entonces,
+para poder realizar eso,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4262-3
+00:21:57.055 --> 00:22:01.901
+<v Andres Hurtado>yo tengo que probar, no sé, digamos un,
+un sistema de sonido por debajo que me</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4262-4
+00:22:01.901 --> 00:22:05.949
+<v Andres Hurtado>van a mejorar, que me van,
+que le van a colocar la experiencia al</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4262-5
+00:22:05.949 --> 00:22:08.526
+<v Andres Hurtado>usuario de forma tal que eso sea realista.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4336-0
+00:22:09.446 --> 00:22:14.579
+<v Andres Hurtado>¿Con no sé un túnel de viento de los
+sonidos de forma tal que pues le llegue</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4336-1
+00:22:14.579 --> 00:22:20.046
+<v Andres Hurtado>la mejor experiencia o el sonido a la a
+la persona o digamos yo puedo entonces ir</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4336-2
+00:22:20.046 --> 00:22:23.446
+<v Andres Hurtado>y grabar?
+Me tengo que ir y grabar unos sonidos en</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4336-3
+00:22:23.446 --> 00:22:28.512
+<v Andres Hurtado>una pista de forma tal que después
+entonces los pueda reproducir como tal a</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4336-4
+00:22:28.512 --> 00:22:32.112
+<v Andres Hurtado>los usuarios,
+de forma tal que él esté inmerso dentro</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4336-5
+00:22:32.112 --> 00:22:34.046
+<v Andres Hurtado>de ese simulador que estamos.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4416-0
+00:22:34.126 --> 00:22:38.426
+<v Andres Hurtado>Montando entonces vienen que hay
+historias relacionadas como con con la</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4416-1
+00:22:38.426 --> 00:22:43.323
+<v Andres Hurtado>parte funcional que me solicitan y puede
+haber habilitadores técnicos también que</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4416-2
+00:22:43.323 --> 00:22:46.548
+<v Andres Hurtado>requieren algún esfuerzo en la mitad que
+yo requiero,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4416-3
+00:22:46.548 --> 00:22:51.326
+<v Andres Hurtado>que yo requiero tenerlos definidos para
+poder comenzar a superar la historia de</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4416-4
+00:22:51.326 --> 00:22:54.372
+<v Andres Hurtado>usuario.
+Y después entonces digamos que ya son los</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4416-5
+00:22:54.372 --> 00:22:55.806
+<v Andres Hurtado>criterios de aceptación.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4497-0
+00:22:56.246 --> 00:23:00.429
+<v Andres Hurtado>Entonces da la la narrativa de la
+historia de usuario con con esta dinámica</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4497-1
+00:23:00.429 --> 00:23:04.777
+<v Andres Hurtado>que normalmente se utiliza es que dado
+que soy tal cuando estoy realizando tal</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4497-2
+00:23:04.777 --> 00:23:07.474
+<v Andres Hurtado>acción, entonces yo quiero ejecutarla,
+ejecutar,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4497-3
+00:23:07.474 --> 00:23:11.822
+<v Andres Hurtado>digamos por ejemplo en este caso los
+disparos de los sonidos de los eventos es</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4497-4
+00:23:11.822 --> 00:23:14.904
+<v Andres Hurtado>la forma en la cual digamos,
+se ha escrito la historia,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4497-5
+00:23:14.904 --> 00:23:16.446
+<v Andres Hurtado>pero por debajo digamos que.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4560-0
+00:23:16.806 --> 00:23:21.939
+<v Andres Hurtado>Hay unos criterios de aceptación que
+están influyendo en la forma en la cual</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4560-1
+00:23:21.939 --> 00:23:26.606
+<v Andres Hurtado>se van a desarrollar esas historias,
+cuando tomamos cada una de estas</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4560-2
+00:23:26.606 --> 00:23:31.406
+<v Andres Hurtado>historias, entonces es importante,
+pues validar las que que tengan este</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4560-3
+00:23:31.406 --> 00:23:35.339
+<v Andres Hurtado>conjunto de aspectos que que la historia
+es independiente,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4560-4
+00:23:35.339 --> 00:23:37.006
+<v Andres Hurtado>que yo la pueda negociar.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4622-0
+00:23:37.366 --> 00:23:40.368
+<v Andres Hurtado>Que yo le pueda dar un valor que sea
+estimable,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4622-1
+00:23:40.368 --> 00:23:44.434
+<v Andres Hurtado>que sea pequeña y que yo la pueda probar,
+que funcione, digamos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4622-2
+00:23:44.434 --> 00:23:49.500
+<v Andres Hurtado>es importante cuando tengamos historias
+de ese tipo que nos van a pedir estimar,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4622-3
+00:23:49.500 --> 00:23:54.442
+<v Andres Hurtado>pues tengamos como tal criterio de que de
+que de que las podemos estimar en el</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4622-4
+00:23:54.442 --> 00:23:56.006
+<v Andres Hurtado>punto en el cual estamos.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4683-0
+00:23:56.446 --> 00:23:59.509
+<v Andres Hurtado>Sí hay una historia que no podemos
+estimar.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4683-1
+00:23:59.509 --> 00:24:03.617
+<v Andres Hurtado>Qué es lo que va a pasar en nuestros
+ciclos de planeación,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4683-2
+00:24:03.617 --> 00:24:06.750
+<v Andres Hurtado>pues digamos que va a haber alguno,
+algunos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4683-3
+00:24:06.750 --> 00:24:12.111
+<v Andres Hurtado>algunos de de de fases en los estimados,
+y nos va digamos a servir como para</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4683-4
+00:24:12.111 --> 00:24:14.966
+<v Andres Hurtado>trabajar en la en el en el sprint actual.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4766-0
+00:24:15.286 --> 00:24:18.674
+<v Andres Hurtado>Entonces,
+es importante tener en cuenta que las</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4766-1
+00:24:18.674 --> 00:24:24.180
+<v Andres Hurtado>historias cumplan con estos criterios
+para poderlas estimar y que el ciclo de</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4766-2
+00:24:24.180 --> 00:24:28.768
+<v Andres Hurtado>de estimación permanezca a ir tener en
+cuenta también otra cosa,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4766-3
+00:24:28.768 --> 00:24:32.086
+<v Andres Hurtado>y es lo que se denomina el definition of
+Down,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4766-4
+00:24:32.086 --> 00:24:37.874
+<v Andres Hurtado>entonces es algo algo que pues ahorita en
+efecto tenemos que trabajar en en todos</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4766-5
+00:24:37.874 --> 00:24:39.286
+<v Andres Hurtado>los grupos y es que.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4832-0
+00:24:39.846 --> 00:24:43.732
+<v Andres Hurtado>¿Qué implica terminar una historia de
+usuario? Felizmente entonces,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4832-1
+00:24:43.732 --> 00:24:47.962
+<v Andres Hurtado>cuando a mí me asignan una historia,
+yo como la tengo que terminar listo,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4832-2
+00:24:47.962 --> 00:24:52.135
+<v Andres Hurtado>terminé el desarrollo. ¿El desarrollo,
+entonces tiene pruebas unitarias?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4832-3
+00:24:52.135 --> 00:24:55.336
+<v Andres Hurtado>Entonces, ah no,
+pero es que solamente es el desarrollo</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4832-4
+00:24:55.336 --> 00:24:58.537
+<v Andres Hurtado>entonces, bueno,
+en el definition of Down vamos a decir</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4832-5
+00:24:58.537 --> 00:24:58.766
+<v Andres Hurtado>que.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4920-0
+00:24:59.086 --> 00:25:02.821
+<v Andres Hurtado>Prueba sanitarias es parte del desarrollo
+que tengo que realizar. Ah, bueno,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4920-1
+00:25:02.821 --> 00:25:05.296
+<v Andres Hurtado>pero entonces,
+cuando cuando yo meto mi historias,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4920-2
+00:25:05.296 --> 00:25:07.964
+<v Andres Hurtado>eso esta integrado en el Brand de
+Desarrollo. ¿Ah, no,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4920-3
+00:25:07.964 --> 00:25:11.991
+<v Andres Hurtado>yo lo tengo en funcionando en mi máquina,
+en mi máquina funciona entonces? Ah, no,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4920-4
+00:25:11.991 --> 00:25:14.805
+<v Andres Hurtado>en definición no.
+Don entonces tiene que decir, oiga, no,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4920-5
+00:25:14.805 --> 00:25:18.638
+<v Andres Hurtado>esto tiene que estar integrado como un
+filtro en tal cosa e integrado en la en</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4920-6
+00:25:18.638 --> 00:25:19.366
+<v Andres Hurtado>la rama, no sé.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4975-0
+00:25:19.886 --> 00:25:24.236
+<v Andres Hurtado>¿Test de la rama, te velo? ¿Sí? ¿Ah,
+YY pero,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4975-1
+00:25:24.236 --> 00:25:31.424
+<v Andres Hurtado>pero entonces también eso incluye?
+Es que yo necesito un componente de un s</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4975-2
+00:25:31.424 --> 00:25:38.423
+<v Andres Hurtado>3 por allá provisionado entonces, Ah,
+pero entonces también incluye el la</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/4975-3
+00:25:38.423 --> 00:25:41.166
+<v Andres Hurtado>provisión de infraestructura.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5039-0
+00:25:42.006 --> 00:25:47.601
+<v Andres Hurtado>Sí no, pues yo por ahí tengo un ritmi,
+un ritmi donde ilustro o comento,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5039-1
+00:25:47.601 --> 00:25:51.969
+<v Andres Hurtado>digamos en general.
+Cómo se provisiona eso que vaya a la</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5039-2
+00:25:51.969 --> 00:25:56.108
+<v Andres Hurtado>consola de AWS,
+le diga el nombre del boque del s 3 y</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5039-3
+00:25:56.108 --> 00:26:00.093
+<v Andres Hurtado>todo eso.
+OO se refiere a que toca que eso sea como</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5039-4
+00:26:00.093 --> 00:26:03.926
+<v Andres Hurtado>infraestructura, como código, es decir,
+que este.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5128-0
+00:26:04.286 --> 00:26:07.991
+<v Andres Hurtado>Como código de la forma en la cual se
+provisionan los elementos de</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5128-1
+00:26:07.991 --> 00:26:11.199
+<v Andres Hurtado>infraestructura,
+entonces todo ese tipo de aspectos es lo</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5128-2
+00:26:11.199 --> 00:26:15.236
+<v Andres Hurtado>que forman el definition of Down y es
+parte de, digamos, del del equipo,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5128-3
+00:26:15.236 --> 00:26:19.882
+<v Andres Hurtado>ponerse de acuerdo en que significa tener
+una historia terminada y qué elementos la</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5128-4
+00:26:19.882 --> 00:26:23.311
+<v Andres Hurtado>van a formar. Si por ejemplo,
+hay elementos de documentación,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5128-5
+00:26:23.311 --> 00:26:26.243
+<v Andres Hurtado>por ejemplo,
+pues para que no se pierda como la guía</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5128-6
+00:26:26.243 --> 00:26:28.566
+<v Andres Hurtado>del proyecto o las decisiones que guiaron.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5179-0
+00:26:28.646 --> 00:26:31.064
+<v Andres Hurtado>¿Arquitectura,
+pues digamos que también hay que</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5179-1
+00:26:31.064 --> 00:26:33.835
+<v Andres Hurtado>consignarlas en ese,
+en ese es un un pequeño extracto,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5179-2
+00:26:33.835 --> 00:26:37.967
+<v Andres Hurtado>un pequeño documento donde va a decir,
+oiga, es que para que este algo terminado,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5179-3
+00:26:37.967 --> 00:26:41.646
+<v Andres Hurtado>este estar contemplado aquí en lo que se
+denomina el definition of Down?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5183-0
+00:26:42.846 --> 00:26:45.406
+<v Andres Hurtado>Digamos que hay que tener en cuenta y.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5252-0
+00:26:47.286 --> 00:26:52.518
+<v Andres Hurtado>Pero bueno, digamos que en general, o sea,
+ya ya centrándonos en la parte como tal</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5252-1
+00:26:52.518 --> 00:26:56.741
+<v Andres Hurtado>de estimación que digamos,
+aquí hemos dado un conjunto de reglas y</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5252-2
+00:26:56.741 --> 00:26:59.641
+<v Andres Hurtado>todo eso,
+pero pues digamos que en general es</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5252-3
+00:26:59.641 --> 00:27:03.171
+<v Andres Hurtado>importante tener en cuenta uno.
+¿Cómo estima el tamaño?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5252-4
+00:27:03.171 --> 00:27:07.206
+<v Andres Hurtado>Y pues digamos que de hecho es es un un
+poco, pues digamos que.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5327-0
+00:27:08.006 --> 00:27:12.247
+<v Andres Hurtado>De de todas maneras,
+en este criterio de estimaciones ágiles,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5327-1
+00:27:12.247 --> 00:27:16.558
+<v Andres Hurtado>estimar el tamaño del volumen,
+pues digamos que se realiza con</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5327-2
+00:27:16.558 --> 00:27:21.758
+<v Andres Hurtado>diferentes personas, porque, de hecho,
+muchas veces no uno no consigue como</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5327-3
+00:27:21.758 --> 00:27:26.615
+<v Andres Hurtado>consenso y lo trata de conseguir
+utilizando el juicio de experto de de</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5327-4
+00:27:26.615 --> 00:27:30.926
+<v Andres Hurtado>diversas personas del Grupo. Por ejemplo,
+digamos, este Honda.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5390-0
+00:27:31.326 --> 00:27:34.999
+<v Andres Hurtado>Cuántos digamos, por ejemplo,
+si quiero estimar el tamaño,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5390-1
+00:27:34.999 --> 00:27:38.984
+<v Andres Hurtado>un volumen de pasajeros que hay,
+pues normalmente uno diría no,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5390-2
+00:27:38.984 --> 00:27:43.529
+<v Andres Hurtado>pues un carro de esos. ¿Eso qué tiene?
+Porque unos cuatro o 5 pasajeros,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5390-3
+00:27:43.529 --> 00:27:46.580
+<v Andres Hurtado>mientras que por ejemplo,
+digamos un una hummer,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5390-4
+00:27:46.580 --> 00:27:50.503
+<v Andres Hurtado>una limo de de estas,
+la verdad no sé cuántos pasajeros podría</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5390-5
+00:27:50.503 --> 00:27:51.686
+<v Andres Hurtado>tener que haber 20.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5473-0
+00:27:52.806 --> 00:27:56.768
+<v Andres Hurtado>De pronto, en una Star Truck del Bueno,
+pues es para viajes, pero bueno,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5473-1
+00:27:56.768 --> 00:28:00.296
+<v Andres Hurtado>entonces como estimamos el volumen,
+mientras que en una moto sí,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5473-2
+00:28:00.296 --> 00:28:04.530
+<v Andres Hurtado>pues sería una. Si tiene parrillero,
+pues máximo más personas antes, digamos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5473-3
+00:28:04.530 --> 00:28:08.003
+<v Andres Hurtado>es la forma en la cual,
+según las características de lo que nos</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5473-4
+00:28:08.003 --> 00:28:10.880
+<v Andres Hurtado>piden estimar,
+pues nosotros digamos que damos un un</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5473-5
+00:28:10.880 --> 00:28:12.726
+<v Andres Hurtado>estimado como tal del volumen que.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5477-0
+00:28:13.806 --> 00:28:16.486
+<v Andres Hurtado>De de lo que nos están solicitando
+realizar.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5555-0
+00:28:26.206 --> 00:28:28.934
+<v Andres Hurtado>Listo,
+bueno y en y metiéndonos digamos ya.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5555-1
+00:28:28.934 --> 00:28:32.779
+<v Andres Hurtado>Para finalizar esta estimación,
+ágil entonces uno lo que uno,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5555-2
+00:28:32.779 --> 00:28:36.809
+<v Andres Hurtado>lo que lo que hace es que tiene un equipo
+como tal, de expertos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5555-3
+00:28:36.809 --> 00:28:39.724
+<v Andres Hurtado>que están sentados y cada uno le va a dar
+una,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5555-4
+00:28:39.724 --> 00:28:44.623
+<v Andres Hurtado>cada uno tiene una baraja y va a ir
+pasando las historias de usuario uno, uno,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5555-5
+00:28:44.623 --> 00:28:49.646
+<v Andres Hurtado>todos los que necesita estimar por el
+ciclo y a cada uno le va a dar un puntaje.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5625-0
+00:28:50.406 --> 00:28:54.776
+<v Andres Hurtado>Este 55 no es, o sea es es, es,
+es solamente un ejemplo, no digan, no,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5625-1
+00:28:54.776 --> 00:28:59.578
+<v Andres Hurtado>es que Andrés hurtado antes dijo que
+todas las historias tenían que darle 55,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5625-2
+00:28:59.578 --> 00:29:02.533
+<v Andres Hurtado>no digamos que en general solamente un
+ejemplo,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5625-3
+00:29:02.533 --> 00:29:07.273
+<v Andres Hurtado>pero es digamos la forma para ilustrar
+como tal las barajitas aquí que van a</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5625-4
+00:29:07.273 --> 00:29:09.366
+<v Andres Hurtado>estar. Digamos que la idea es que.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5716-0
+00:29:10.126 --> 00:29:14.395
+<v Andres Hurtado>Que digamos que eso no se va,
+eso no se no se vaya más de 8 horas,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5716-1
+00:29:14.395 --> 00:29:17.262
+<v Andres Hurtado>el equivalente a 8 horas al día o medio
+día,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5716-2
+00:29:17.262 --> 00:29:21.658
+<v Andres Hurtado>digamos que no se vaya más de cuatro
+cuando son historias. ¿Por qué?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5716-3
+00:29:21.658 --> 00:29:26.628
+<v Andres Hurtado>Porque digamos que son como eso tiene
+digamos que ver como con la forma en la</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5716-4
+00:29:26.628 --> 00:29:31.789
+<v Andres Hurtado>cual uno se programa para trabajar en el
+día como para trabajar con fracciones y</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5716-5
+00:29:31.789 --> 00:29:33.446
+<v Andres Hurtado>que cada vez que tiene un.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5783-0
+00:29:34.726 --> 00:29:37.267
+<v Andres Hurtado>¿Cada vez que está trabajando algo de
+producto,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5783-1
+00:29:37.267 --> 00:29:41.291
+<v Andres Hurtado>pues digamos que al final entonces vea un
+pedacito de su trabajo reflejado,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5783-2
+00:29:41.291 --> 00:29:44.415
+<v Andres Hurtado>entonces digamos,
+por eso digamos que se dividen secciones</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5783-3
+00:29:44.415 --> 00:29:48.015
+<v Andres Hurtado>digamos de cuatro u 8 horas,
+a lo más sí entonces, pues cuál es la?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5783-4
+00:29:48.015 --> 00:29:51.775
+<v Andres Hurtado>¿Cuál es la dinámica de este tipo de de
+planeación por planing, Poker?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5783-5
+00:29:51.775 --> 00:29:54.846
+<v Andres Hurtado>Que ya la hemos vivido, digamos,
+dentro de los proyectos.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5839-0
+00:29:55.326 --> 00:29:59.445
+<v Andres Hurtado>Asignamos entonces, o sea,
+cogemos el conjunto de historias de</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5839-1
+00:29:59.445 --> 00:30:03.695
+<v Andres Hurtado>usuario, las subimos.
+Asignamos un puntaje según la serie de fi,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5839-2
+00:30:03.695 --> 00:30:07.422
+<v Andres Hurtado>una vez modificada,
+normalmente esas esos esos puntajes.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5839-3
+00:30:07.422 --> 00:30:10.757
+<v Andres Hurtado>Son horas.
+¿Los miembros del equipo entonces van a</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5839-4
+00:30:10.757 --> 00:30:13.046
+<v Andres Hurtado>participar? Cada uno da un puntaje.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5913-0
+00:30:14.606 --> 00:30:18.750
+<v Andres Hurtado>Y según el rol en el proyecto,
+entonces se haga una participación.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5913-1
+00:30:18.750 --> 00:30:23.204
+<v Andres Hurtado>Es importante que quien participa es
+quién lo va, quien lo va a sufrir,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5913-2
+00:30:23.204 --> 00:30:26.668
+<v Andres Hurtado>quién quien va,
+quién va a moler la quién va a moler la</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5913-3
+00:30:26.668 --> 00:30:30.627
+<v Andres Hurtado>carnesita, es decir, bueno,
+pues digamos si los que los que han</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5913-4
+00:30:30.627 --> 00:30:35.267
+<v Andres Hurtado>estado como tal en estas dinámicas de
+Scrum, trabajando para harto tiempo,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5913-5
+00:30:35.267 --> 00:30:35.886
+<v Andres Hurtado>saben que.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5970-0
+00:30:36.406 --> 00:30:42.202
+<v Andres Hurtado>Digamos que un un inspirador que que es
+la historia del cómo es la historia del</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5970-1
+00:30:42.202 --> 00:30:45.824
+<v Andres Hurtado>cerdo y la gallina,
+que van a colocar un negocio.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5970-2
+00:30:45.824 --> 00:30:51.476
+<v Andres Hurtado>¿Entonces el el cerdo le dice a la
+gallina, la gallina le dice al cerdo, oye,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5970-3
+00:30:51.476 --> 00:30:54.736
+<v Andres Hurtado>Chamo,
+entonces vamos AA colocar un negocio,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/5970-4
+00:30:54.736 --> 00:30:55.606
+<v Andres Hurtado>va a ser el?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6061-0
+00:30:56.126 --> 00:31:00.080
+<v Andres Hurtado>¿YY entonces el otro le dice, sí, Claro,
+coloquémoslo entonces,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6061-1
+00:31:00.080 --> 00:31:03.725
+<v Andres Hurtado>cómo se va a llamar?
+Entonces se va a llamar el huevos con</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6061-2
+00:31:03.725 --> 00:31:08.605
+<v Andres Hurtado>jamón y entonces al cerdo no le pareció
+porque pues digamos que ahí la gallina</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6061-3
+00:31:08.605 --> 00:31:11.818
+<v Andres Hurtado>solamente estaría implicada,
+pero digamos el cerdo,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6061-4
+00:31:11.818 --> 00:31:15.154
+<v Andres Hurtado>si es el que le le toca moler el cuero
+para que para,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6061-5
+00:31:15.154 --> 00:31:19.541
+<v Andres Hurtado>pues para que todo salga bien,
+entonces digamos que realmente esos que</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6061-6
+00:31:19.541 --> 00:31:20.406
+<v Andres Hurtado>van a ser los.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6127-0
+00:31:20.926 --> 00:31:24.971
+<v Andres Hurtado>Los cerditos. O sea,
+cada cada item va a ser, digamos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6127-1
+00:31:24.971 --> 00:31:30.414
+<v Andres Hurtado>para cerdos, para los que produce.
+Si el scrum Master participa es porque</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6127-2
+00:31:30.414 --> 00:31:34.165
+<v Andres Hurtado>desarrolla,
+si si el producto owner digamos que es</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6127-3
+00:31:34.165 --> 00:31:39.534
+<v Andres Hurtado>dueño del producto está por ahí de pronto
+aclarando cosas, pero pues él,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6127-4
+00:31:39.534 --> 00:31:41.006
+<v Andres Hurtado>como no va a sufrir.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6184-0
+00:31:41.566 --> 00:31:46.191
+<v Andres Hurtado>No le van a pelar la carnecita,
+pues digamos que él no no estima y se van</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6184-1
+00:31:46.191 --> 00:31:49.003
+<v Andres Hurtado>pasando,
+digamos las las historias YY se van</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6184-2
+00:31:49.003 --> 00:31:53.003
+<v Andres Hurtado>respondiendo las preguntas,
+si se requiere como tal aclaración,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6184-3
+00:31:53.003 --> 00:31:58.128
+<v Andres Hurtado>pero pues digamos que es importante que
+esas historias vayan filtradas con el con</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6184-4
+00:31:58.128 --> 00:31:59.566
+<v Andres Hurtado>el prefijo invest, que.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6245-0
+00:32:00.326 --> 00:32:04.353
+<v Andres Hurtado>Que habíamos que habíamos trabajado y el
+contraste, digamos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6245-1
+00:32:04.353 --> 00:32:07.919
+<v Andres Hurtado>es entonces en cuanto normalmente se
+sucede, digamos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6245-2
+00:32:07.919 --> 00:32:13.069
+<v Andres Hurtado>cuando hay una persona que estima mucho y
+otra que estima harta de la idea es</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6245-3
+00:32:13.069 --> 00:32:17.757
+<v Andres Hurtado>llegar como tal a un consenso y converger
+a un valor listo y con este,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6245-4
+00:32:17.757 --> 00:32:19.606
+<v Andres Hurtado>digamos es es un uno de los.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6306-0
+00:32:21.646 --> 00:32:26.735
+<v Andres Hurtado>Iniciamos entonces el otro método,
+digamos, de estimación, ya es un poquito,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6306-1
+00:32:26.735 --> 00:32:31.561
+<v Andres Hurtado>un poquito más, trata de cómo,
+de recabar la estructura interna de la de</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6306-2
+00:32:31.561 --> 00:32:36.981
+<v Andres Hurtado>la aplicación para darnos luces en sobre
+cómo lo lo podemos estimar. Es, digamos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6306-3
+00:32:36.981 --> 00:32:38.766
+<v Andres Hurtado>bastante conocido, esto es.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6360-0
+00:32:39.086 --> 00:32:45.093
+<v Andres Hurtado>Un estándar que se volvió hizo, digamos,
+de ahí deriva métodos como de estimación</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6360-1
+00:32:45.093 --> 00:32:48.902
+<v Andres Hurtado>diferentes,
+pues digamos que la idea es que también</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6360-2
+00:32:48.902 --> 00:32:52.638
+<v Andres Hurtado>lo tengan en cuenta como estrategia de
+estimación,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6360-3
+00:32:52.638 --> 00:32:58.206
+<v Andres Hurtado>cuando requiere realizar un un análisis y
+se llama Function Point Analysis.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6366-0
+00:32:59.166 --> 00:33:04.606
+<v Andres Hurtado>Entonces es 111 medida de.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6391-0
+00:33:06.286 --> 00:33:10.378
+<v Andres Hurtado>¿De la funcionalidad del negocio en una
+aplicación cuando, por ejemplo,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6391-1
+00:33:10.378 --> 00:33:13.846
+<v Andres Hurtado>le dice a un maestro de obra, oiga,
+pero es que yo necesito?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6465-0
+00:33:18.566 --> 00:33:21.914
+<v Andres Hurtado>Poder realizar el metra, o sea,
+poder construir una casa.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6465-1
+00:33:21.914 --> 00:33:25.956
+<v Andres Hurtado>¿Entonces llega y dice, bueno,
+pero eso son cuántos metros lo quiere?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6465-2
+00:33:25.956 --> 00:33:30.055
+<v Andres Hurtado>Con materiales de buena calidad o de baja
+calidad y todo eso entonces,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6465-3
+00:33:30.055 --> 00:33:34.559
+<v Andres Hurtado>digamos OO de eficiente calidad y todo
+eso entonces con base en esos y cuánto</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6465-4
+00:33:34.559 --> 00:33:37.446
+<v Andres Hurtado>más o menos, cuántas habitaciones.
+Y todo eso es.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6482-0
+00:33:37.726 --> 00:33:41.894
+<v Andres Hurtado>Entonces ahí él le dice, no,
+esto le cuesta más o menos tanto.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6482-1
+00:33:41.894 --> 00:33:44.806
+<v Andres Hurtado>Entonces es una como una forma de
+expresar.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6497-0
+00:33:46.366 --> 00:33:49.726
+<v Andres Hurtado>¿Qué tan grande? Qué tan mediador,
+qué tan qué tan pequeño, es un producto.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6593-0
+00:33:51.086 --> 00:33:55.668
+<v Andres Hurtado>De forma tal que uno pueda llegarle al al
+cliente con un estimado, digamos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6593-1
+00:33:55.668 --> 00:33:58.682
+<v Andres Hurtado>en general,
+de lo que le va a realizar y que sepa</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6593-2
+00:33:58.682 --> 00:34:01.395
+<v Andres Hurtado>finalmente que lo va a poder hacer
+entonces.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6593-3
+00:34:01.395 --> 00:34:06.158
+<v Andres Hurtado>Digamos que el function point quiere
+llegar con una analogía como esta, o sea,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6593-4
+00:34:06.158 --> 00:34:10.379
+<v Andres Hurtado>digamos tener una medida de la
+funcionalidad que el negocio necesita,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6593-5
+00:34:10.379 --> 00:34:14.961
+<v Andres Hurtado>rompiendo la aplicación en componentes
+que son más chiquitos y es, digamos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6593-6
+00:34:14.961 --> 00:34:15.926
+<v Andres Hurtado>muy orientado a.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6617-0
+00:34:16.046 --> 00:34:20.723
+<v Andres Hurtado>A al tratamiento de de de registro, o sea,
+vamos a ver,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6617-1
+00:34:20.723 --> 00:34:26.821
+<v Andres Hurtado>digamos que es muy es muy orientada,
+digamos a lo que se denomina record</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6617-2
+00:34:26.821 --> 00:34:27.406
+<v Andres Hurtado>Orient.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6658-0
+00:34:31.206 --> 00:34:36.570
+<v Andres Hurtado>Y la idea de la idea de de utilizar esta
+metodología es que el usuario,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6658-1
+00:34:36.570 --> 00:34:41.338
+<v Andres Hurtado>o sea que que sea algo que el usuario
+pueda interpretar, o sea,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6658-2
+00:34:41.338 --> 00:34:43.126
+<v Andres Hurtado>que de hecho el usuario.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6736-0
+00:34:45.046 --> 00:34:49.013
+<v Andres Hurtado>En cierto momento me pueda,
+pues es un es un arma de doble FILO,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6736-1
+00:34:49.013 --> 00:34:53.102
+<v Andres Hurtado>porque digamos el usuario,
+oiga que el usuario me digamos me pueda</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6736-2
+00:34:53.102 --> 00:34:55.788
+<v Andres Hurtado>contradecir, oiga,
+pero usted sí estimó sí,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6736-3
+00:34:55.788 --> 00:35:00.670
+<v Andres Hurtado>estimó esta parte de la de la aplicación
+y poderlo contrastar YY decirle a uno,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6736-4
+00:35:00.670 --> 00:35:03.600
+<v Andres Hurtado>oiga, no,
+mire que aquí estamos reflejando este</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6736-5
+00:35:03.600 --> 00:35:06.286
+<v Andres Hurtado>requisito,
+que usted me estaba solicitando.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6754-0
+00:35:07.046 --> 00:35:12.226
+<v Andres Hurtado>Trata de ser también independiente de la
+tecnología y que sea consistente</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6754-1
+00:35:12.226 --> 00:35:15.166
+<v Andres Hurtado>alrededor del uso de diferentes proyectos.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6768-0
+00:35:16.286 --> 00:35:19.766
+<v Andres Hurtado>¿Entonces, sin más preámbulos,
+vamos a ver como tal, cual es ese método?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6853-0
+00:35:21.246 --> 00:35:24.661
+<v Andres Hurtado>Son 5 pasos,
+digamos que en general de de este método,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6853-1
+00:35:24.661 --> 00:35:28.076
+<v Andres Hurtado>entonces digamos,
+primero validamos el tipo de conteo,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6853-2
+00:35:28.076 --> 00:35:31.927
+<v Andres Hurtado>si es un proyecto nuevo,
+un proyecto modificado normalmente a</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6853-3
+00:35:31.927 --> 00:35:34.907
+<v Andres Hurtado>veces,
+a veces cuando vamos a modificar Código,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6853-4
+00:35:34.907 --> 00:35:38.385
+<v Andres Hurtado>eso implica,
+digamos previamente tener una un concepto,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6853-5
+00:35:38.385 --> 00:35:43.415
+<v Andres Hurtado>un conocimiento funcional del proyecto o
+respecto a un proyecto que iniciamos de</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6853-6
+00:35:43.415 --> 00:35:43.726
+<v Andres Hurtado>cero.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6902-0
+00:35:44.566 --> 00:35:49.916
+<v Andres Hurtado>Determinamos el scope de lo que vamos a
+analizar, entonces es si si este,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6902-1
+00:35:49.916 --> 00:35:54.472
+<v Andres Hurtado>si esto lo vamos a si,
+si esta parte solamente vamos a estimar</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6902-2
+00:35:54.472 --> 00:35:58.810
+<v Andres Hurtado>un módulo o vamos.
+AA detallar diferentes módulos que es el</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6902-3
+00:35:58.810 --> 00:36:03.366
+<v Andres Hurtado>bounded context que vamos AA trabajar
+después, entonces a ver.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6944-0
+00:36:05.206 --> 00:36:10.342
+<v Andres Hurtado>Sacar una medida,
+que son los lo que se denominan los</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6944-1
+00:36:10.342 --> 00:36:15.955
+<v Andres Hurtado>función point no ajustados,
+que le pega 2 características,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6944-2
+00:36:15.955 --> 00:36:22.423
+<v Andres Hurtado>los datos que modelamos y las
+transacciones que que que estamos que</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6944-3
+00:36:22.423 --> 00:36:24.326
+<v Andres Hurtado>estamos produciendo.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6998-0
+00:36:25.526 --> 00:36:30.843
+<v Andres Hurtado>En el cuarto punto entonces se
+desarrollan unos valores de ajuste que</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6998-1
+00:36:30.843 --> 00:36:36.236
+<v Andres Hurtado>tienen precisamente que ver con unos
+puntos no funcionales de la de la</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6998-2
+00:36:36.236 --> 00:36:40.262
+<v Andres Hurtado>aplicación,
+y después se saca finalmente el valor de</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/6998-3
+00:36:40.262 --> 00:36:42.086
+<v Andres Hurtado>función point ajustados.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7020-0
+00:36:43.166 --> 00:36:45.888
+<v Andres Hurtado>Y para poder,
+para poder realizar ese conteo,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7020-1
+00:36:45.888 --> 00:36:49.498
+<v Andres Hurtado>digamos que está este gráfico,
+qué es lo que vamos a contar,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7020-2
+00:36:49.498 --> 00:36:51.806
+<v Andres Hurtado>entonces vamos a comenzar a considerar.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7087-0
+00:36:55.406 --> 00:37:00.757
+<v Andres Hurtado>Primero la parte estática de lo que nos
+modela como tal nuestra aplicación,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7087-1
+00:37:00.757 --> 00:37:06.179
+<v Andres Hurtado>entonces son las estructuras que nosotros
+estamos manejando intrínsecamente,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7087-2
+00:37:06.179 --> 00:37:11.531
+<v Andres Hurtado>o sea son y hay 2 tipos de estructuras
+que que que normalmente nos nos toca</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7087-3
+00:37:11.531 --> 00:37:15.122
+<v Andres Hurtado>manejar,
+lo que se llaman los internalogical files</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7087-4
+00:37:15.122 --> 00:37:15.686
+<v Andres Hurtado>que son.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7163-0
+00:37:16.086 --> 00:37:22.447
+<v Andres Hurtado>No sé los datos que guardábamos los datos
+que más mantenemos en la aplicación,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7163-1
+00:37:22.447 --> 00:37:28.648
+<v Andres Hurtado>los datos que guardamos en una base
+relacional o no relacional son, digamos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7163-2
+00:37:28.648 --> 00:37:34.607
+<v Andres Hurtado>todos los que los que tienen que ver en
+esta parte o también los external</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7163-3
+00:37:34.607 --> 00:37:39.438
+<v Andres Hurtado>interface files.
+Si requerimos realizar alguna integración,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7163-4
+00:37:39.438 --> 00:37:40.566
+<v Andres Hurtado>sacar algunos.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7212-0
+00:37:40.646 --> 00:37:44.900
+<v Andres Hurtado>Los datos de otro sistema entonces son
+los que se denominan los sistema</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7212-1
+00:37:44.900 --> 00:37:49.272
+<v Andres Hurtado>interface files. Es, digamos yo,
+cómo me voy a entregar otro sistema para</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7212-2
+00:37:49.272 --> 00:37:52.640
+<v Andres Hurtado>poder sacar datos que los que no son
+completamente míos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7212-3
+00:37:52.640 --> 00:37:56.126
+<v Andres Hurtado>pero yo me estoy enterando que que los
+tengo que consumir.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7287-0
+00:37:57.326 --> 00:38:01.920
+<v Andres Hurtado>Y eso es, digamos, la parte. ¿Cómo?
+Modelamos la parte estática para poder</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7287-1
+00:38:01.920 --> 00:38:05.718
+<v Andres Hurtado>realizar el estimado,
+pero hay otra parte digamos relacionada</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7287-2
+00:38:05.718 --> 00:38:09.517
+<v Andres Hurtado>con la parte de transacción que es
+digamos del que está aquí.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7287-3
+00:38:09.517 --> 00:38:14.540
+<v Andres Hurtado>¿Después en la parte izquierda, que son,
+digamos ya la interacción con con con el</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7287-4
+00:38:14.540 --> 00:38:17.235
+<v Andres Hurtado>usuario,
+entonces yo cómo interactúo con el</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7287-5
+00:38:17.235 --> 00:38:17.726
+<v Andres Hurtado>usuario?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7362-0
+00:38:18.486 --> 00:38:22.520
+<v Andres Hurtado>Él me pide, digamos son,
+no sé en este caso como pantallas de</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7362-1
+00:38:22.520 --> 00:38:26.490
+<v Andres Hurtado>pantallas para poder interactuar con él,
+o sea, OO, digamos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7362-2
+00:38:26.490 --> 00:38:30.850
+<v Andres Hurtado>son salidas que saco de él.
+O son consultas que que me solicita él</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7362-3
+00:38:30.850 --> 00:38:35.536
+<v Andres Hurtado>digamos, es como, digamos a grosso modo,
+con base en estos 5 elementos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7362-4
+00:38:35.536 --> 00:38:39.766
+<v Andres Hurtado>la idea es tener unas fundation para
+poder realizar el estimado.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7364-0
+00:38:41.006 --> 00:38:41.566
+<v Andres Hurtado>¿Entonces?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7447-0
+00:38:42.926 --> 00:38:47.805
+<v Andres Hurtado>Si lo pasamos llegamos a una arquitectura
+por por capas, onion. O digamos, digamos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7447-1
+00:38:47.805 --> 00:38:51.871
+<v Andres Hurtado>tradicional que se utilizaba, digamos,
+para revisar cada uno digamos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7447-2
+00:38:51.871 --> 00:38:56.343
+<v Andres Hurtado>de los micro servicios que vendía.
+Estamos acostumbrados a realizar entonces</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7447-3
+00:38:56.343 --> 00:39:00.990
+<v Andres Hurtado>digamos que este es como la la estructura
+y vemos digamos que de igual forma se</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7447-4
+00:39:00.990 --> 00:39:04.476
+<v Andres Hurtado>mantiene, entonces digamos son,
+pues digamos toda la parte,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7447-5
+00:39:04.476 --> 00:39:07.206
+<v Andres Hurtado>digamos de Front,
+entonces es interacción con.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7521-0
+00:39:07.686 --> 00:39:11.550
+<v Andres Hurtado>Equery, salidas,
+pantallas e interacción contra sistemas</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7521-1
+00:39:11.550 --> 00:39:14.872
+<v Andres Hurtado>externos.
+Y pues todo el modelamiento digamos de</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7521-2
+00:39:14.872 --> 00:39:19.551
+<v Andres Hurtado>todo nuestro sistema onion,
+donde estamos modelando los los archivos</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7521-3
+00:39:19.551 --> 00:39:23.483
+<v Andres Hurtado>de los archivos de datos.
+Los datos que trabajamos con la</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7521-4
+00:39:23.483 --> 00:39:26.873
+<v Andres Hurtado>aplicación,
+con sus correspondientes capas de de,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7521-5
+00:39:26.873 --> 00:39:30.806
+<v Andres Hurtado>independientemente de la forma que
+estemos desarrollando.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7539-0
+00:39:31.366 --> 00:39:36.236
+<v Andres Hurtado>Nuestro backend entonces digamos que son
+el conjunto de elementos totalmente</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7539-1
+00:39:36.236 --> 00:39:38.766
+<v Andres Hurtado>aplicables para poder para poder contar.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7617-0
+00:39:40.646 --> 00:39:43.756
+<v Andres Hurtado>¿Y vamos a ver un ejemplo,
+entonces digamos esa parte,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7617-1
+00:39:43.756 --> 00:39:47.997
+<v Andres Hurtado>digamos de ya ya, ya ya colocándolo,
+digamos un poquito más en específico,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7617-2
+00:39:47.997 --> 00:39:52.012
+<v Andres Hurtado>cómo vamos a contar esos elementos
+entonces lo lo que son los external</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7617-3
+00:39:52.012 --> 00:39:55.235
+<v Andres Hurtado>impuls entonces?
+Pues digamos que ya se está pareciendo,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7617-4
+00:39:55.235 --> 00:39:59.646
+<v Andres Hurtado>digamos un poquito más a los formularios
+que podemos realizar o las entradas.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7688-0
+00:39:59.966 --> 00:40:03.861
+<v Andres Hurtado>De captura que tenemos entonces son los
+van a hacer,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7688-1
+00:40:03.861 --> 00:40:08.786
+<v Andres Hurtado>las van a hacer los los ítems que que que
+vamos a estar manejando,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7688-2
+00:40:08.786 --> 00:40:12.021
+<v Andres Hurtado>pero cada uno de ellos entonces va a
+sumar,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7688-3
+00:40:12.021 --> 00:40:15.916
+<v Andres Hurtado>digamos lo que se llama un dynamic
+elementype es el,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7688-4
+00:40:15.916 --> 00:40:21.797
+<v Andres Hurtado>digamos el nombre que le han que le han
+dado en esta en esta parte cada dynamic</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7688-5
+00:40:21.797 --> 00:40:22.606
+<v Andres Hurtado>elementype.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7778-0
+00:40:23.406 --> 00:40:27.472
+<v Andres Hurtado>Por ejemplo, digamos los que son,
+digamos de nombre, primer nombre,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7778-1
+00:40:27.472 --> 00:40:31.778
+<v Andres Hurtado>primer apellido, email Password,
+pueden pertenecer a un mismo registro,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7778-2
+00:40:31.778 --> 00:40:35.247
+<v Andres Hurtado>pueden pertenecer a una misma entidad,
+que es lo digamos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7778-3
+00:40:35.247 --> 00:40:39.134
+<v Andres Hurtado>como una entidad registro,
+mientras que estos son los elementos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7778-4
+00:40:39.134 --> 00:40:43.021
+<v Andres Hurtado>entonces aquí, digamos,
+por ejemplo en los primeros 12345 tienen</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7778-5
+00:40:43.021 --> 00:40:46.968
+<v Andres Hurtado>que ver más como con la persona,
+mientras que el campo digamos de</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7778-6
+00:40:46.968 --> 00:40:47.806
+<v Andres Hurtado>investigación.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7824-0
+00:40:48.446 --> 00:40:51.223
+<v Andres Hurtado>¿Puede ser,
+digamos que le está apuntando como otro</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7824-1
+00:40:51.223 --> 00:40:55.070
+<v Andres Hurtado>tópico relacionado con el usuario,
+pero no necesariamente que tiene que</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7824-2
+00:40:55.070 --> 00:40:58.702
+<v Andres Hurtado>estar en el usuario, digamos,
+son los tópicos que investiga ahorita</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7824-3
+00:40:58.702 --> 00:41:01.266
+<v Andres Hurtado>esos los podemos tener como en otra
+estructura?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7824-4
+00:41:01.266 --> 00:41:04.846
+<v Andres Hurtado>Entonces estaríamos hablando de 2 record.
+Element time diferentes.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7873-0
+00:41:06.326 --> 00:41:09.442
+<v Andres Hurtado>Cuando son salidas,
+entonces normalmente uno ve,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7873-1
+00:41:09.442 --> 00:41:13.067
+<v Andres Hurtado>digamos que hay salidas que son un
+maestro y un detalle,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7873-2
+00:41:13.067 --> 00:41:17.328
+<v Andres Hurtado>entonces normalmente son salidas,
+una que le pega a un a un récord</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7873-3
+00:41:17.328 --> 00:41:20.953
+<v Andres Hurtado>elemental y otra.
+Digamos que que muestra como están los</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7873-4
+00:41:20.953 --> 00:41:21.526
+<v Andres Hurtado>detalles.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7952-0
+00:41:24.206 --> 00:41:28.700
+<v Andres Hurtado>Y otra digamos que van a hacer consultas,
+digamos en general que sobre pues ya la.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7952-1
+00:41:28.700 --> 00:41:32.274
+<v Andres Hurtado>La dinámica del procesamiento,
+que ya previamente hemos realizado</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7952-2
+00:41:32.274 --> 00:41:36.281
+<v Andres Hurtado>entonces. Finalmente para poder,
+ya que tenemos toda la parte como tal de</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7952-3
+00:41:36.281 --> 00:41:39.368
+<v Andres Hurtado>transacciones,
+entonces tenemos un Foundation para poder</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/7952-4
+00:41:39.368 --> 00:41:42.726
+<v Andres Hurtado>realizar estimación. ¿Entonces,
+qué insumos tenemos entonces?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8040-0
+00:41:43.086 --> 00:41:45.376
+<v Andres Hurtado>Podemos tener mockups que hayamos
+realizado,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8040-1
+00:41:45.376 --> 00:41:49.295
+<v Andres Hurtado>sabemos cuáles son los items que vamos a
+realizar y como hacen ellos podemos</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8040-2
+00:41:49.295 --> 00:41:51.942
+<v Andres Hurtado>realizar algunos conteos ahora de la
+parte interna.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8040-3
+00:41:51.942 --> 00:41:54.182
+<v Andres Hurtado>Entonces para modelar nuestras
+estructuras,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8040-4
+00:41:54.182 --> 00:41:58.406
+<v Andres Hurtado>pues digamos podemos tener otros insumos,
+digamos tener un diagrama tipo, entidad,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8040-5
+00:41:58.406 --> 00:42:02.478
+<v Andres Hurtado>relación o dilucidar cuáles son como las
+entidades que interactúan dentro de mi</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8040-6
+00:42:02.478 --> 00:42:02.886
+<v Andres Hurtado>negocio.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8052-0
+00:42:03.326 --> 00:42:07.131
+<v Andres Hurtado>Para poder sacar lo que son los internal
+logical files. O sea,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8052-1
+00:42:07.131 --> 00:42:09.366
+<v Andres Hurtado>las entidades que modelan mi negocio.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8127-0
+00:42:11.006 --> 00:42:15.246
+<v Andres Hurtado>De igual forma, también cuando,
+pues tenemos que realizar interacciones</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8127-1
+00:42:15.246 --> 00:42:17.956
+<v Andres Hurtado>contra que llamara a un servicio que
+llamara,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8127-2
+00:42:17.956 --> 00:42:20.901
+<v Andres Hurtado>que llamara AA una pie de integración y
+todo eso,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8127-3
+00:42:20.901 --> 00:42:24.729
+<v Andres Hurtado>pues vamos a tener un modelo
+relativamente similar. Este nos va,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8127-4
+00:42:24.729 --> 00:42:28.970
+<v Andres Hurtado>nos va a servir como para guía,
+pero digamos va a haber otras entidades</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8127-5
+00:42:28.970 --> 00:42:31.326
+<v Andres Hurtado>que tenemos que integrar en el caso que.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8134-0
+00:42:31.806 --> 00:42:35.606
+<v Andres Hurtado>Tengamos que consumir data desde otro
+desde otro sistema.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8198-0
+00:42:39.646 --> 00:42:44.439
+<v Andres Hurtado>Los que en general lo lo lo que
+finalmente entonces vamos a contar son</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8198-1
+00:42:44.439 --> 00:42:49.571
+<v Andres Hurtado>registros, o sea, los se llaman record,
+element types o data element types.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8198-2
+00:42:49.571 --> 00:42:54.162
+<v Andres Hurtado>Entonces, digamos un registro,
+van a ser varios data element types,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8198-3
+00:42:54.162 --> 00:42:59.766
+<v Andres Hurtado>entonces entre un registro por ejemplo,
+como el estudiante entonces podemos tener.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8267-0
+00:43:00.126 --> 00:43:03.838
+<v Andres Hurtado>Digamos el campo, nombre, apellido,
+documento de identidad.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8267-1
+00:43:03.838 --> 00:43:07.365
+<v Andres Hurtado>No vamos a contar digamos los botones,
+digamos si si yo,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8267-2
+00:43:07.365 --> 00:43:11.820
+<v Andres Hurtado>si yo me voy a devolver o algo así,
+que desbarate el Estado y no quiero</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8267-3
+00:43:11.820 --> 00:43:14.790
+<v Andres Hurtado>guardar nada,
+entonces solo los vamos a cantar.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8267-4
+00:43:14.790 --> 00:43:18.564
+<v Andres Hurtado>No contamos menús links de de
+Navegacionales ni nada de eso.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8267-5
+00:43:18.564 --> 00:43:19.926
+<v Andres Hurtado>Dentro de este conteo.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8278-0
+00:43:20.446 --> 00:43:22.903
+<v Andres Hurtado>Solamente,
+digamos los que los que lo que son como</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8278-1
+00:43:22.903 --> 00:43:24.686
+<v Andres Hurtado>los elementos como tal de estructura.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8288-0
+00:43:26.366 --> 00:43:31.446
+<v Andres Hurtado>Y lo que vamos a hacer es es que tomemos
+una entidad.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8364-0
+00:43:33.166 --> 00:43:37.235
+<v Andres Hurtado>Contamos los elementos que hay dentro y
+eso nos va a ayudar a ver,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8364-1
+00:43:37.235 --> 00:43:41.547
+<v Andres Hurtado>va a ir dando unos insumos para para
+buscarlos en una, en una tablita.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8364-2
+00:43:41.547 --> 00:43:44.826
+<v Andres Hurtado>Finalmente,
+esa tablita nos va a dar un puntaje y con</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8364-3
+00:43:44.826 --> 00:43:48.288
+<v Andres Hurtado>base en ese puntaje que es el que
+finalmente vamos a ir,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8364-4
+00:43:48.288 --> 00:43:51.081
+<v Andres Hurtado>vamos a ir utilizando por eso,
+digamos mejor.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8364-5
+00:43:51.081 --> 00:43:53.086
+<v Andres Hurtado>Mostrárselos por aquí un ejemplo.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8367-0
+00:43:54.366 --> 00:43:56.126
+<v Andres Hurtado>Por ejemplo, digamos aquí, yo tengo.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8374-0
+00:43:58.646 --> 00:44:00.686
+<v Andres Hurtado>Voy a realizar un.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8428-0
+00:44:02.246 --> 00:44:05.722
+<v Andres Hurtado>Una aplicación para contar function
+points.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8428-1
+00:44:05.722 --> 00:44:10.700
+<v Andres Hurtado>Entonces esta aplicación va a tener
+proyectos entre proyectos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8428-2
+00:44:10.700 --> 00:44:17.022
+<v Andres Hurtado>entonces vamos a tener que contar lo que
+eran como las entidades, o sea, lo lo,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8428-3
+00:44:17.022 --> 00:44:21.526
+<v Andres Hurtado>lo lo interno y la la la lo interno y las
+integraciones.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8474-0
+00:44:22.726 --> 00:44:27.570
+<v Andres Hurtado>Los procesos, o sea,
+los las pantallas de de de consulta de</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8474-1
+00:44:27.570 --> 00:44:33.060
+<v Andres Hurtado>entrada y de salida y con base en eso,
+vamos a realizar una pequeña</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8474-2
+00:44:33.060 --> 00:44:37.259
+<v Andres Hurtado>aplicacioncita.
+Entonces este tutorial de pronto lo</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8474-3
+00:44:37.259 --> 00:44:40.166
+<v Andres Hurtado>pueden seguir. Voy a compartir aquí.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8541-0
+00:44:48.246 --> 00:44:52.695
+<v Andres Hurtado>Voy a compartir la pantalla completa con
+este ejercicio,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8541-1
+00:44:52.695 --> 00:44:56.286
+<v Andres Hurtado>este lo saque digamos de acá al
+veralexander.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8541-2
+00:44:56.286 --> 00:45:01.828
+<v Andres Hurtado>com este man trabaja con programación
+funcional, pero también digamos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8541-3
+00:45:01.828 --> 00:45:07.526
+<v Andres Hurtado>explique este método de function points y
+aquí hay un ejemplo de conteo,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8541-4
+00:45:07.526 --> 00:45:09.166
+<v Andres Hurtado>que pues digamos que.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8548-0
+00:45:09.566 --> 00:45:11.705
+<v Andres Hurtado>Pues,
+es importante que los sigan si quieren,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8548-1
+00:45:11.705 --> 00:45:13.286
+<v Andres Hurtado>digamos chequear esta metodología.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8561-0
+00:45:14.646 --> 00:45:17.886
+<v Andres Hurtado>Y entonces aquí lo que queremos entonces
+es demostrar.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8644-0
+00:45:19.166 --> 00:45:24.019
+<v Andres Hurtado>A través de una aplicación que se llama
+el FP Tracker, que es, digamos una,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8644-1
+00:45:24.019 --> 00:45:28.681
+<v Andres Hurtado>una aplicación que nos va a permitir
+estimar los funtion points de otras</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8644-2
+00:45:28.681 --> 00:45:33.215
+<v Andres Hurtado>aplicaciones. Entonces está primero,
+pues toda la parte del manejo del</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8644-3
+00:45:33.215 --> 00:45:37.749
+<v Andres Hurtado>proyecto. ¿Entonces, cómo creo?
+Elimino proyectos para estimar toda la</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8644-4
+00:45:37.749 --> 00:45:41.006
+<v Andres Hurtado>parte, digamos, de gestión de entidades,
+entonces.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8702-0
+00:45:41.366 --> 00:45:46.688
+<v Andres Hurtado>Crear los internal logicard files y los
+external interface files los los process.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8702-1
+00:45:46.688 --> 00:45:51.556
+<v Andres Hurtado>Digamos que estamos hablando de las
+entradas, las salidas y las consultas,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8702-2
+00:45:51.556 --> 00:45:56.359
+<v Andres Hurtado>pues toda la parte de reportes es,
+digamos lo que lo que va a trabajar la</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8702-3
+00:45:56.359 --> 00:46:00.188
+<v Andres Hurtado>aplicación aquí.
+De pronto podemos ver las pantallas de la</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8702-4
+00:46:00.188 --> 00:46:02.006
+<v Andres Hurtado>aplicación, estaban un poco.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8705-0
+00:46:02.206 --> 00:46:03.926
+<v Andres Hurtado>Por aquí al del Ático.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8765-0
+00:46:06.966 --> 00:46:11.496
+<v Andres Hurtado>Aquí están las pantallas,
+entonces yo quiero entonces crear un</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8765-1
+00:46:11.496 --> 00:46:15.307
+<v Andres Hurtado>proyecto, entonces aquí le digo,
+le doy el proyecto,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8765-2
+00:46:15.307 --> 00:46:19.119
+<v Andres Hurtado>le digo si es una aplicación,
+cuando creo uno nuevo,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8765-3
+00:46:19.119 --> 00:46:24.152
+<v Andres Hurtado>entonces aquí yo le puedo decir,
+pues que qué elementos tiene esa esa</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8765-4
+00:46:24.152 --> 00:46:26.526
+<v Andres Hurtado>pantalla, digamos si es si es un.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8820-0
+00:46:26.846 --> 00:46:31.239
+<v Andres Hurtado>¿Según el proyecto, entonces qué?
+Qué qué elementos va a tener,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8820-1
+00:46:31.239 --> 00:46:35.495
+<v Andres Hurtado>cuántos items, o sea,
+cuántos items va a tener cada elemento,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8820-2
+00:46:35.495 --> 00:46:40.232
+<v Andres Hurtado>si puede agregar eliminar.
+Entonces aquí ya está todo el el detalle,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8820-3
+00:46:40.232 --> 00:46:42.566
+<v Andres Hurtado>digamos en general de los mockuts.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8826-0
+00:46:43.806 --> 00:46:46.686
+<v Andres Hurtado>De todas las de todas las pantallas que
+voy a tener en la aplicación.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8877-0
+00:46:48.166 --> 00:46:52.309
+<v Andres Hurtado>Aquí por otro lado,
+pues voy a tener entonces las estructuras</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8877-1
+00:46:52.309 --> 00:46:56.252
+<v Andres Hurtado>estáticas que que voy a modelar como tal
+en mi aplicación.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8877-2
+00:46:56.252 --> 00:47:01.465
+<v Andres Hurtado>Entonces digamos que en general ahí,
+con esos insumos ahí ya prácticamente lo</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8877-3
+00:47:01.465 --> 00:47:04.606
+<v Andres Hurtado>lo, lo lo tengo todo bien.
+Compartir de nuevo.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8880-0
+00:47:10.526 --> 00:47:12.046
+<v Andres Hurtado>Es la presentación.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8881-0
+00:47:20.006 --> 00:47:20.406
+<v Andres Hurtado>Y.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8970-0
+00:47:25.886 --> 00:47:28.297
+<v Andres Hurtado>Entonces,
+aquí en este lado vamos a comenzar</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8970-1
+00:47:28.297 --> 00:47:32.743
+<v Andres Hurtado>entonces a contar porque pues digamos que
+genera la gracia de esto, pues es poder,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8970-2
+00:47:32.743 --> 00:47:35.744
+<v Andres Hurtado>es poder contar en general para que nos
+de un estimado,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8970-3
+00:47:35.744 --> 00:47:38.423
+<v Andres Hurtado>entonces por ejemplo tenemos la entidad
+proyecto,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8970-4
+00:47:38.423 --> 00:47:42.494
+<v Andres Hurtado>entonces vamos a crear un nuevo proyecto
+y este digamos que le dijimos, no,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/8970-5
+00:47:42.494 --> 00:47:46.406
+<v Andres Hurtado>es que vamos a modelar el nombre del
+proyecto, el tipo y la descripción.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9023-0
+00:47:47.086 --> 00:47:50.251
+<v Andres Hurtado>Entonces,
+esta entidad proyecto va a ser un un</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9023-1
+00:47:50.251 --> 00:47:53.214
+<v Andres Hurtado>récord,
+entonces vamos a modelar diferentes</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9023-2
+00:47:53.214 --> 00:47:57.996
+<v Andres Hurtado>proyectos y por dentro entonces vamos a
+tener diferentes ítems, o sea,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9023-3
+00:47:57.996 --> 00:48:03.316
+<v Andres Hurtado>diferentes campos y esos van a ser los
+los, los det, los data elementy. O sea,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9023-4
+00:48:03.316 --> 00:48:05.606
+<v Andres Hurtado>cada tipo de estos es un elemento.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9113-0
+00:48:06.046 --> 00:48:10.042
+<v Andres Hurtado>Entonces aquí tenemos, por un lado,
+que son 3 data element time con un record</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9113-1
+00:48:10.042 --> 00:48:13.680
+<v Andres Hurtado>element time, aquí en de este,
+YY así hacemos con todas las entidades.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9113-2
+00:48:13.680 --> 00:48:17.780
+<v Andres Hurtado>Entonces, si creamos una nueva entidad,
+entonces aquí, por ejemplo, le decimos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9113-3
+00:48:17.780 --> 00:48:21.469
+<v Andres Hurtado>oiga, si la la, si voy a modelar,
+entonces la entidad clase la entidad,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9113-4
+00:48:21.469 --> 00:48:24.134
+<v Andres Hurtado>no sé qué,
+entonces aquí le colocamos los atributos</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9113-5
+00:48:24.134 --> 00:48:27.926
+<v Andres Hurtado>y cada uno de esos atributos va a ser un
+data element time, mientras que.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9174-0
+00:48:28.566 --> 00:48:34.098
+<v Andres Hurtado>Esto va a ser un récord elementile y así
+hacemos con la estructura estática de de</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9174-1
+00:48:34.098 --> 00:48:39.225
+<v Andres Hurtado>de la de la aplicación que montamos y
+esto nos da es este estimado entonces</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9174-2
+00:48:39.225 --> 00:48:42.328
+<v Andres Hurtado>decimos,
+esto es un red rest data elementipe.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9174-3
+00:48:42.328 --> 00:48:47.726
+<v Andres Hurtado>Esto es una entidad con 6 data elementipe,
+esto es un proceso con 2 elementipe.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9225-0
+00:48:48.126 --> 00:48:51.816
+<v Andres Hurtado>YY es digo entonces,
+aquí nos da un record elemental y varios</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9225-1
+00:48:51.816 --> 00:48:56.220
+<v Andres Hurtado>de por cada una de las entidades,
+ahora lo que vamos a hacer es darle una</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9225-2
+00:48:56.220 --> 00:48:59.196
+<v Andres Hurtado>complejidad, si eso es pequeño,
+mediano o grande,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9225-3
+00:48:59.196 --> 00:49:02.886
+<v Andres Hurtado>entonces eso lo hacemos con unas tablitas
+de Proxys entonces.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9227-0
+00:49:04.086 --> 00:49:05.246
+<v Andres Hurtado>Hay unas tablitas.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9245-0
+00:49:06.606 --> 00:49:13.193
+<v Andres Hurtado>Por ejemplo, es que nos dicen, Oye,
+cuando dices digamos ya del método,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9245-1
+00:49:13.193 --> 00:49:14.566
+<v Andres Hurtado>entonces dicen.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9302-0
+00:49:22.686 --> 00:49:27.147
+<v Andres Hurtado>¿Si los tengo por aquí los tengo por acá,
+entonces,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9302-1
+00:49:27.147 --> 00:49:34.267
+<v Andres Hurtado>si por ejemplo a usted le dio de una a 19
+data element types por un récord element</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9302-2
+00:49:34.267 --> 00:49:39.930
+<v Andres Hurtado>type? Eso es bajo complejidad,
+baja y aquí, con complejidad baja.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9302-3
+00:49:39.930 --> 00:49:41.646
+<v Andres Hurtado>Eso le dan 7 puntos.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9367-0
+00:49:42.406 --> 00:49:47.322
+<v Andres Hurtado>Entonces lo que vamos a ir sumando en esa
+Tablita son 7 puntos para poder realizar</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9367-1
+00:49:47.322 --> 00:49:51.231
+<v Andres Hurtado>los puntos relacionados con, por ejemplo,
+el manejo de proyectos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9367-2
+00:49:51.231 --> 00:49:55.791
+<v Andres Hurtado>después entonces aquí le dice, oiga,
+si tengo de 20 a 50 data element types,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9367-3
+00:49:55.791 --> 00:49:59.049
+<v Andres Hurtado>pero solamente son una o 2 estructuras.
+Entonces, ahí,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9367-4
+00:49:59.049 --> 00:50:02.366
+<v Andres Hurtado>digamos que si le va aumentando,
+entonces digamos como.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9416-0
+00:50:02.566 --> 00:50:06.141
+<v Andres Hurtado>Bueno, estructuras digamos más grandes.
+Entonces se ve,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9416-1
+00:50:06.141 --> 00:50:10.739
+<v Andres Hurtado>digamos que va aumentando el la
+complejidad relacionada con cada uno de</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9416-2
+00:50:10.739 --> 00:50:15.592
+<v Andres Hurtado>los con cada uno de los estimados de las
+entidades que estamos dando listo,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9416-3
+00:50:15.592 --> 00:50:19.232
+<v Andres Hurtado>ahora hacemos,
+lo hacemos lo propio para identificar las</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9416-4
+00:50:19.232 --> 00:50:20.126
+<v Andres Hurtado>transacciones.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9420-0
+00:50:22.686 --> 00:50:24.566
+<v Andres Hurtado>Para identificar estas transacciones.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9425-0
+00:50:26.406 --> 00:50:28.326
+<v Andres Hurtado>Lo que vamos a realizar.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9456-0
+00:50:30.206 --> 00:50:36.364
+<v Andres Hurtado>Lo que vamos a realizar es que vamos a
+montar entonces el conjunto de pantallas</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9456-1
+00:50:36.364 --> 00:50:42.446
+<v Andres Hurtado>o interacciones como tal con con los
+usuarios. Entonces aquí tengo un ejemplo.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9460-0
+00:50:46.646 --> 00:50:47.486
+<v Andres Hurtado>¿Entonces en este?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9509-0
+00:50:49.926 --> 00:50:54.326
+<v Andres Hurtado>Entonces, aquí en la pantalla,
+digamos donde pedíamos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9509-1
+00:50:54.326 --> 00:50:59.206
+<v Andres Hurtado>alimentar el proyecto,
+entonces está el nombre del proyecto,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9509-2
+00:50:59.206 --> 00:51:04.966
+<v Andres Hurtado>está el tipo de proyecto, la descripción,
+digamos el botón de guardado.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9509-3
+00:51:04.966 --> 00:51:09.286
+<v Andres Hurtado>Entonces digamos que este nos dan 5 data
+elementares.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9513-0
+00:51:10.006 --> 00:51:12.490
+<v Andres Hurtado>Por, digamos,
+un registro que era el que finalmente yo</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9513-1
+00:51:12.490 --> 00:51:13.846
+<v Andres Hurtado>estaba modificando por debajo.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9603-0
+00:51:15.686 --> 00:51:18.904
+<v Andres Hurtado>Para la pantalla,
+donde quería agregar una entidad</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9603-1
+00:51:18.904 --> 00:51:23.699
+<v Andres Hurtado>relacionada con el manejo del proyecto.
+Entonces aquí entonces yo manejo el</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9603-2
+00:51:23.699 --> 00:51:27.990
+<v Andres Hurtado>proyecto la entidad y voy contando
+entonces cada uno de los sitios,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9603-3
+00:51:27.990 --> 00:51:30.956
+<v Andres Hurtado>entonces Ah,
+esto es un poco más identificable</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9603-4
+00:51:30.956 --> 00:51:35.626
+<v Andres Hurtado>respecto AA la interacción que que tiene
+como tal, el usuario le permite,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9603-5
+00:51:35.626 --> 00:51:39.286
+<v Andres Hurtado>digamos contar qué es lo que realmente le
+van a entregar.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9690-0
+00:51:39.606 --> 00:51:42.925
+<v Andres Hurtado>Y a nosotros, entonces justificar,
+porque uno u otro ítem,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9690-1
+00:51:42.925 --> 00:51:46.807
+<v Andres Hurtado>pues puede ser más difícil o fácil de de
+poder sacarse, por ejemplo,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9690-2
+00:51:46.807 --> 00:51:50.914
+<v Andres Hurtado>en la mitad yo tengo que realizar algún
+cómputo o ir a algún elemento de</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9690-3
+00:51:50.914 --> 00:51:54.627
+<v Andres Hurtado>inteligencia artificial AA realizar
+alguna transacción adicional,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9690-4
+00:51:54.627 --> 00:51:58.734
+<v Andres Hurtado>pues esto me da criterio de forma tal
+para justificarle al cliente, oye,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9690-5
+00:51:58.734 --> 00:52:00.366
+<v Andres Hurtado>es que no es tan sencillo de.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9748-0
+00:52:00.686 --> 00:52:04.625
+<v Andres Hurtado>Poderle colocar un botón,
+esto por debajo digamos que tiene alguna</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9748-1
+00:52:04.625 --> 00:52:07.272
+<v Andres Hurtado>complejidad adicional,
+pues que me requiere,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9748-2
+00:52:07.272 --> 00:52:12.211
+<v Andres Hurtado>porque yo tengo que integrar con con otro
+sistema para que esto tenga sentido en la</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9748-3
+00:52:12.211 --> 00:52:14.446
+<v Andres Hurtado>aplicación que usted está proponiendo.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9809-0
+00:52:15.766 --> 00:52:20.601
+<v Andres Hurtado>Finalmente, entonces,
+lo que lo que lo que tendremos entonces</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9809-1
+00:52:20.601 --> 00:52:26.606
+<v Andres Hurtado>es este conjunto de, por ejemplo,
+para el caso, digamos, de de de funciones,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9809-2
+00:52:26.606 --> 00:52:30.974
+<v Andres Hurtado>de transacción,
+entonces vamos a tener un listado de de</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9809-3
+00:52:30.974 --> 00:52:34.406
+<v Andres Hurtado>todos los procesos que tenemos y todos
+los.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9867-0
+00:52:34.926 --> 00:52:38.752
+<v Andres Hurtado>YY toda su complejidad asociada y con
+esto, digamos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9867-1
+00:52:38.752 --> 00:52:44.601
+<v Andres Hurtado>también nos va a dar un chorrero de de de
+puntos funcionales relacionados con la</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9867-2
+00:52:44.601 --> 00:52:48.789
+<v Andres Hurtado>mecánica de las transacciones,
+en este caso las entradas,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9867-3
+00:52:48.789 --> 00:52:52.038
+<v Andres Hurtado>lo mismo para las salidas.
+Entonces digamos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9867-4
+00:52:52.038 --> 00:52:54.566
+<v Andres Hurtado>si si yo requiero realizar digamos.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9950-0
+00:52:57.006 --> 00:53:02.357
+<v Andres Hurtado>En un conjunto de reportes para
+entregarle al usuario y todo eso entonces,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9950-1
+00:53:02.357 --> 00:53:07.566
+<v Andres Hurtado>y él me pide entonces consultar
+diferentes tablas, entonces hay aquí yo,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9950-2
+00:53:07.566 --> 00:53:13.060
+<v Andres Hurtado>entonces para la salida yo necesitaría
+unir diferentes data elementares para</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9950-3
+00:53:13.060 --> 00:53:18.483
+<v Andres Hurtado>reportarlos de diferentes entidades,
+que son aquí, serían reflejar los FTL,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9950-4
+00:53:18.483 --> 00:53:19.126
+<v Andres Hurtado>entonces.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9988-0
+00:53:19.406 --> 00:53:23.222
+<v Andres Hurtado>Digamos que eso, o sea a medida,
+digamos que uno más entidades para poder</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9988-1
+00:53:23.222 --> 00:53:27.244
+<v Andres Hurtado>realizar el reporte, pues eso me da,
+me va dando como mayor complejidad en el</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9988-2
+00:53:27.244 --> 00:53:29.616
+<v Andres Hurtado>desarrollo que tengo que realizar
+finalmente,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/9988-3
+00:53:29.616 --> 00:53:31.886
+<v Andres Hurtado>digamos si si tengo que realizar
+consultas.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10021-0
+00:53:34.366 --> 00:53:39.352
+<v Andres Hurtado>Pues digamos que que las voy sumando al
+final. ¿Entonces qué voy?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10021-1
+00:53:39.352 --> 00:53:45.699
+<v Andres Hurtado>¿A qué voy a tener? Voy a tener un bueno,
+voy a tener entonces un un total ajustado</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10021-2
+00:53:45.699 --> 00:53:45.926
+<v Andres Hurtado>de.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10026-0
+00:53:48.286 --> 00:53:50.286
+<v Andres Hurtado>Eh, aquí tengo un total de.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10079-0
+00:53:53.926 --> 00:53:58.488
+<v Andres Hurtado>Todo lo que es estático, que es internal,
+lo que yo de call file external interface</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10079-1
+00:53:58.488 --> 00:54:01.909
+<v Andres Hurtado>files y todo lo que son,
+transacciones que son external input,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10079-2
+00:54:01.909 --> 00:54:05.005
+<v Andres Hurtado>external query,
+external Outlook y finalmente, entonces,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10079-3
+00:54:05.005 --> 00:54:05.766
+<v Andres Hurtado>aquí yo tengo.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10097-0
+00:54:07.646 --> 00:54:12.326
+<v Andres Hurtado>Un valor de puntos funcionales no ha
+gustado, o sea, aquí me dieron 99.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10103-0
+00:54:14.926 --> 00:54:16.406
+<v Andres Hurtado>Ahora lo que hago es.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10112-0
+00:54:17.606 --> 00:54:20.886
+<v Andres Hurtado>Que hay 111 valor de balanceo.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10193-0
+00:54:22.286 --> 00:54:26.346
+<v Andres Hurtado>Que pues o sea,
+balancear esa estructura acorde a ciertas</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10193-1
+00:54:26.346 --> 00:54:31.876
+<v Andres Hurtado>complejidades no funcionales relacionadas
+con el producto que voy a construir,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10193-2
+00:54:31.876 --> 00:54:35.516
+<v Andres Hurtado>entonces,
+digamos si yo tengo que mantener una tasa</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10193-3
+00:54:35.516 --> 00:54:39.926
+<v Andres Hurtado>de transacción es alto,
+si la eficiencia a nivel de usuario la</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10193-4
+00:54:39.926 --> 00:54:44.966
+<v Andres Hurtado>tengo que buscar de de diferente forma,
+si estoy buscando reusabilidad.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10264-0
+00:54:45.366 --> 00:54:50.282
+<v Andres Hurtado>Si tengo que tenerte,
+estabilidad y todo y todo este tipo de</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10264-1
+00:54:50.282 --> 00:54:55.843
+<v Andres Hurtado>aspectos pues son puntajes que que yo voy
+calculando en este factor,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10264-2
+00:54:55.843 --> 00:55:00.356
+<v Andres Hurtado>que es 111 valor de ajuste y lo
+distribuyo entre 0 y 5.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10264-3
+00:55:00.356 --> 00:55:07.126
+<v Andres Hurtado>Utilizo estas fórmulas y digamos que eso
+me da, digamos como un punto de da, o sea.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10302-0
+00:55:07.446 --> 00:55:12.389
+<v Andres Hurtado>Trata como de tener una curva que se
+distribuye alrededor de los puntos</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10302-1
+00:55:12.389 --> 00:55:16.852
+<v Andres Hurtado>funcionales y que varía,
+digamos que le puede dar de como cierta</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10302-2
+00:55:16.852 --> 00:55:20.286
+<v Andres Hurtado>complejidad.
+Según estos aspectos estén variando.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10322-0
+00:55:21.526 --> 00:55:24.401
+<v Andres Hurtado>Al final,
+entonces digamos que para este proyecto</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10322-1
+00:55:24.401 --> 00:55:27.046
+<v Andres Hurtado>me dio, me dieron 95.
+0 4 puntos funcionales.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10324-0
+00:55:28.326 --> 00:55:28.486
+<v Andres Hurtado>Y.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10425-0
+00:55:31.326 --> 00:55:37.008
+<v Andres Hurtado>Entonces, pues digamos que eso me da,
+eso me da como cierto criterio para saber</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10425-1
+00:55:37.008 --> 00:55:42.336
+<v Andres Hurtado>qué tan grande. Qué tan mediano,
+qué tan pequeño es ese producto y poderlo</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10425-2
+00:55:42.336 --> 00:55:45.532
+<v Andres Hurtado>comparar.
+Miren que mire que aquí en cierto,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10425-3
+00:55:45.532 --> 00:55:50.788
+<v Andres Hurtado>aquí en cierto momento solamente saqué
+puntos funcionales ahora que ahora</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10425-4
+00:55:50.788 --> 00:55:55.406
+<v Andres Hurtado>digamos si me piden que esto sea una
+aplicación con sprint, con.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10528-0
+00:55:55.806 --> 00:55:58.777
+<v Andres Hurtado>Realidad con no sé qué no lo hemos
+hablado. ¿Por qué?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10528-1
+00:55:58.777 --> 00:56:02.793
+<v Andres Hurtado>Porque eso tiene que ver, digamos,
+en general es en otro aspecto que que</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10528-2
+00:56:02.793 --> 00:56:06.865
+<v Andres Hurtado>toca tener en cuenta posteriormente,
+que es la parte de la productividad.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10528-3
+00:56:06.865 --> 00:56:11.267
+<v Andres Hurtado>Digamos que la la idea es que esos puntos
+funcionales sean como agnósticos a la</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10528-4
+00:56:11.267 --> 00:56:15.944
+<v Andres Hurtado>tecnología y que esa capa, digamos encima,
+nos dé como la parte de la productividad,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10528-5
+00:56:15.944 --> 00:56:19.686
+<v Andres Hurtado>tal vez digamos realizar cosas en Java o
+no sé si lo lo han vivido.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10613-0
+00:56:20.326 --> 00:56:23.747
+<v Andres Hurtado>Puede, digamos,
+ser un poquito más complejo que de pronto</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10613-1
+00:56:23.747 --> 00:56:26.992
+<v Andres Hurtado>tener una tecnología un poco va a ir más
+bien que pai,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10613-2
+00:56:26.992 --> 00:56:30.709
+<v Andres Hurtado>entonces por eso digamos que se aplica en
+una capcom superior.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10613-3
+00:56:30.709 --> 00:56:35.133
+<v Andres Hurtado>¿Si tenemos ese ese valor entonces
+después nos van a decir, bueno, cuánto?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10613-4
+00:56:35.133 --> 00:56:38.791
+<v Andres Hurtado>¿Cuánto dura entonces?
+Lo que lo que yo tengo que realizar es</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10613-5
+00:56:38.791 --> 00:56:43.216
+<v Andres Hurtado>aplicar esos puntos funcionales respecto
+a la productividad en determinado</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10613-6
+00:56:43.216 --> 00:56:43.806
+<v Andres Hurtado>framework.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10690-0
+00:56:44.086 --> 00:56:49.711
+<v Andres Hurtado>¿Y cómo hacen eso entonces? ¿Digamos,
+puedo dar un más o menos 1 neto de cuánto</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10690-1
+00:56:49.711 --> 00:56:53.367
+<v Andres Hurtado>me puedo demorar?
+¿Cuánto cuesta entonces ya viene,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10690-2
+00:56:53.367 --> 00:56:58.992
+<v Andres Hurtado>digamos amarrado a la productividad de
+tal ingeniero con con tall Framework por</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10690-3
+00:56:58.992 --> 00:57:02.578
+<v Andres Hurtado>su costo por hora,
+que me que que tiene en cuenta?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10690-4
+00:57:02.578 --> 00:57:07.992
+<v Andres Hurtado>Pues digamos que no solo el desarrollo,
+sino que tengo que realizar cosas de</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10690-5
+00:57:07.992 --> 00:57:08.766
+<v Andres Hurtado>pruebas de.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10760-0
+00:57:09.246 --> 00:57:13.366
+<v Andres Hurtado>De performance de SISEY.
+Todo eso entonces digamos que me da un</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10760-1
+00:57:13.366 --> 00:57:18.130
+<v Andres Hurtado>valor adicional, pues al un es un valor,
+digamos que de que que tengo que</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10760-2
+00:57:18.130 --> 00:57:23.152
+<v Andres Hurtado>considerar para desarrollar cada uno de
+los puntos funcionales y cuánta gente</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10760-3
+00:57:23.152 --> 00:57:28.046
+<v Andres Hurtado>entonces digamos que hay unas unas
+fórmulas más o menos mágicas en general.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10819-0
+00:57:28.366 --> 00:57:31.753
+<v Andres Hurtado>¿Que plantea, digamos,
+este Alvin Alexander,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10819-1
+00:57:31.753 --> 00:57:38.077
+<v Andres Hurtado>digamos en general para realizar como tal
+esa estimación y pues digamos que ya para</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10819-2
+00:57:38.077 --> 00:57:43.573
+<v Andres Hurtado>para finalizar, entonces cuándo?
+¿Cuándo utilizamos este tipo de conteo?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10819-3
+00:57:43.573 --> 00:57:46.886
+<v Andres Hurtado>¿Entonces por qué es importante y lo
+vemos?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10908-0
+00:57:47.166 --> 00:57:52.465
+<v Andres Hurtado>Digamos que alrededor de alrededor de
+toda la de todo lo de todo el ciclo de</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10908-1
+00:57:52.465 --> 00:57:57.971
+<v Andres Hurtado>desarrollo muchas veces es importante
+tener en cuenta como OO mantener esa guía</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10908-2
+00:57:57.971 --> 00:58:02.789
+<v Andres Hurtado>de qué tan grande, qué tan mediano,
+qué tan pequeño es ese producto y</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10908-3
+00:58:02.789 --> 00:58:07.814
+<v Andres Hurtado>mantener digamos siempre como la
+expectativa alineada alrededor de todas</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10908-4
+00:58:07.814 --> 00:58:11.806
+<v Andres Hurtado>las cosas del proyecto,
+porque digamos que el cliente se.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10995-0
+00:58:11.846 --> 00:58:16.432
+<v Andres Hurtado>Se puede enojar cuando inicialmente
+digamos en una propuesta le dijimos que</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10995-1
+00:58:16.432 --> 00:58:20.897
+<v Andres Hurtado>algo era más bien pequeño cuando digamos
+en general se estaba imaginando,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10995-2
+00:58:20.897 --> 00:58:25.906
+<v Andres Hurtado>digamos algo que comenzó a evolucionar y
+lo y lo y lo comenzó a sentir que que que</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10995-3
+00:58:25.906 --> 00:58:30.673
+<v Andres Hurtado>a medida que que le agregábamos feature
+se volvía más grande y él quedó con la</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10995-4
+00:58:30.673 --> 00:58:34.173
+<v Andres Hurtado>imagen de pronto de que era algo al
+inicio bien chiquito,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/10995-5
+00:58:34.173 --> 00:58:36.286
+<v Andres Hurtado>lo que estábamos haciendo entonces.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11064-0
+00:58:36.686 --> 00:58:40.192
+<v Andres Hurtado>Es importante, digamos,
+tener en cuenta en qué puntos podemos</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11064-1
+00:58:40.192 --> 00:58:44.150
+<v Andres Hurtado>contar en en la parte, digamos,
+de hacer una propuesta cuando tenemos</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11064-2
+00:58:44.150 --> 00:58:46.752
+<v Andres Hurtado>unos requisitos iniciales,
+entonces contamos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11064-3
+00:58:46.752 --> 00:58:50.937
+<v Andres Hurtado>pues porque la la persona requiere tener
+una propuesta de qué tan grande,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11064-4
+00:58:50.937 --> 00:58:54.330
+<v Andres Hurtado>mediano o chiquito. ¿Es esto en el diseño?
+¿Entonces, oiga,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11064-5
+00:58:54.330 --> 00:58:56.366
+<v Andres Hurtado>si me van a pedir elaborar esto con?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11150-0
+00:58:56.646 --> 00:58:59.904
+<v Andres Hurtado>Tales criterios entonces yo vuelvo a
+medir en la parte de QA,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11150-1
+00:58:59.904 --> 00:59:03.162
+<v Andres Hurtado>si yo tengo que probar algo,
+entonces ahí estoy internamente,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11150-2
+00:59:03.162 --> 00:59:07.156
+<v Andres Hurtado>midiendo que es lo que me toca probar ya
+cuando lo entrego entonces. Bueno,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11150-3
+00:59:07.156 --> 00:59:10.729
+<v Andres Hurtado>yo tengo algunos aspectos de cuánto me
+demoré, construyendo cuánto,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11150-4
+00:59:10.729 --> 00:59:14.145
+<v Andres Hurtado>cómo lo voy a entregar,
+esto digamos en dónde me va a caber y en</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11150-5
+00:59:14.145 --> 00:59:17.246
+<v Andres Hurtado>la parte de mantenimiento. Entonces si,
+si requiero mover.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11208-0
+00:59:17.566 --> 00:59:20.435
+<v Andres Hurtado>Algunas partes sobre desarrollar nuevo
+módulo.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11208-1
+00:59:20.435 --> 00:59:24.403
+<v Andres Hurtado>Entonces siempre estoy contando entonces
+una dinámica que se va,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11208-2
+00:59:24.403 --> 00:59:28.860
+<v Andres Hurtado>digamos mantener viva alrededor de
+diferentes iteraciones, este digamos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11208-3
+00:59:28.860 --> 00:59:32.279
+<v Andres Hurtado>pues es el ejemplo,
+digamos que en general que habíamos</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11208-4
+00:59:32.279 --> 00:59:34.966
+<v Andres Hurtado>trabajado. Hay unas fórmulas mágicas,
+pero.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11271-0
+00:59:36.446 --> 00:59:39.415
+<v Andres Hurtado>Estos están aquí dentro de las
+referencias,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11271-1
+00:59:39.415 --> 00:59:44.544
+<v Andres Hurtado>en esta primera referencia de Alvin lo
+pueden encontrar comoalvinalexander.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11271-2
+00:59:44.544 --> 00:59:48.459
+<v Andres Hurtado>com funtion points,
+pues digamos que es la la inspiración</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11271-3
+00:59:48.459 --> 00:59:53.521
+<v Andres Hurtado>para poder realizar este método.
+¿Y cómo se relaciona esto con la parte de</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11271-4
+00:59:53.521 --> 00:59:55.006
+<v Andres Hurtado>de la guía generativa?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11343-0
+00:59:56.126 --> 01:00:00.212
+<v Andres Hurtado>Entonces, miren,
+que normalmente he visto que que lo o sea,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11343-1
+01:00:00.212 --> 01:00:05.797
+<v Andres Hurtado>lo que lo que realmente la degenerativa
+nos ayuda para esta parte de estimaciones</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11343-2
+01:00:05.797 --> 01:00:11.382
+<v Andres Hurtado>no es tanto con el método de estimación,
+sino con abstraer esa información de las</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11343-3
+01:00:11.382 --> 01:00:13.766
+<v Andres Hurtado>piezas de información que tengamos.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11431-0
+01:00:14.086 --> 01:00:16.658
+<v Andres Hurtado>Entonces,
+hay aplicaciones que tratan de leer los</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11431-1
+01:00:16.658 --> 01:00:20.825
+<v Andres Hurtado>mockups, leer las historias de usuario,
+hacer un parsing de las especificaciones</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11431-2
+01:00:20.825 --> 01:00:24.066
+<v Andres Hurtado>de los end points para poder realizar
+esos cálculos o conteos.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11431-3
+01:00:24.066 --> 01:00:27.307
+<v Andres Hurtado>Hay una aplicación.
+Digamos que me relaciona, que me apareció,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11431-4
+01:00:27.307 --> 01:00:31.422
+<v Andres Hurtado>que se llamacounter.com, que lo hace,
+pues digamos que tocaría, digamos variar,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11431-5
+01:00:31.422 --> 01:00:32.606
+<v Andres Hurtado>que no lo ha utilizado.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11496-0
+01:00:33.326 --> 01:00:39.522
+<v Andres Hurtado>Pero digamos lo que hace es tener como
+esa capa de oiga, yo tengo estos insumos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11496-1
+01:00:39.522 --> 01:00:43.194
+<v Andres Hurtado>los mockups los.
+El modelo entidad de relación,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11496-2
+01:00:43.194 --> 01:00:47.019
+<v Andres Hurtado>estos insumos para poder concebir el, el,
+el, el,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11496-3
+01:00:47.019 --> 01:00:53.446
+<v Andres Hurtado>el producto que tengo que realizar y con
+base en eso sí aplico la metodología para.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11584-0
+01:00:53.806 --> 01:00:58.930
+<v Andres Hurtado>Realizar el y como tal el cálculo,
+entonces digamos que en general hemos</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11584-1
+01:00:58.930 --> 01:01:04.686
+<v Andres Hurtado>hecho un recorrido por diferentes tipos
+de metodologías como para que se inspiren</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11584-2
+01:01:04.686 --> 01:01:10.443
+<v Andres Hurtado>y lo tengan en cuenta y tengan en cuenta
+también ese tipo de criterios para poder</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11584-3
+01:01:10.443 --> 01:01:15.848
+<v Andres Hurtado>realizar mejor sus estimados alrededor de
+los proyectos en los que les toque</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11584-4
+01:01:15.848 --> 01:01:18.446
+<v Andres Hurtado>trabajar de ahora en adelante y pues.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11591-0
+01:01:18.486 --> 01:01:23.149
+<v Andres Hurtado>¿Digamos esto era lo que tenía preparado
+para ustedes hoy? Muchísimas gracias,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11591-1
+01:01:23.149 --> 01:01:24.566
+<v Andres Hurtado>no sé si haya preguntas.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11611-0
+01:01:37.646 --> 01:01:41.886
+<v Andres Hurtado>Esto también,
+digamos que o sea que esto es un estándar</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11611-1
+01:01:41.886 --> 01:01:44.006
+<v Andres Hurtado>ISO ISO, ahí ahí sí, ahí sí.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11655-0
+01:01:47.566 --> 01:01:50.651
+<v Andres Hurtado>Sacaron,
+digamos una una parte de funcional points,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11655-1
+01:01:50.651 --> 01:01:55.220
+<v Andres Hurtado>y eso hay una dinámica de hay unas
+conferencias anuales relacionadas con con</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11655-2
+01:01:55.220 --> 01:01:58.246
+<v Andres Hurtado>esta parte,
+federico creo que tienes una pregunta.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11714-0
+01:02:00.006 --> 01:02:03.309
+<v Federico Zea>Sí,
+yo quisiera preguntar por saber o</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11714-1
+01:02:03.309 --> 01:02:10.437
+<v Federico Zea>simplemente pues que me digas cómo podría
+afectar esas estimaciones. Por ejemplo,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11714-2
+01:02:10.437 --> 01:02:15.914
+<v Federico Zea>la cantidad de books que salgan en un
+proceso adecuado de UAT,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11714-3
+01:02:15.914 --> 01:02:22.086
+<v Federico Zea>porque no es lo mismo solucionar 2 o 3
+problemas a solucionar 150 200.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11777-0
+01:02:24.806 --> 01:02:27.937
+<v Andres Hurtado>¿OK? Sí, digamos que hay,
+hay una dinámica.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11777-1
+01:02:27.937 --> 01:02:33.416
+<v Andres Hurtado>Hay una dinámica relacionada con este
+tipo de metodologías y ahí distinguen,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11777-2
+01:02:33.416 --> 01:02:38.610
+<v Andres Hurtado>siempre en el cuál es el código base y
+cuál es el código modificado. Sí,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11777-3
+01:02:38.610 --> 01:02:42.311
+<v Andres Hurtado>entonces,
+muchas veces el código modificado a veces</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11777-4
+01:02:42.311 --> 01:02:44.446
+<v Andres Hurtado>puede resultar un poquito más.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11833-0
+01:02:46.246 --> 01:02:50.651
+<v Andres Hurtado>Estimoso más grande que el código base
+porque es natural,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11833-1
+01:02:50.651 --> 01:02:54.524
+<v Andres Hurtado>porque tienes que comprender como tal el
+problema,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11833-2
+01:02:54.524 --> 01:02:59.081
+<v Andres Hurtado>entonces es importante tener en cuenta
+que pues cada o sea,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11833-3
+01:02:59.081 --> 01:03:04.246
+<v Andres Hurtado>digamos que te entiendo,
+digamos que puede ser, digamos importante.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11892-0
+01:03:06.086 --> 01:03:09.906
+<v Andres Hurtado>Poder realizar el estimado de uno de 150
+historias,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11892-1
+01:03:09.906 --> 01:03:15.711
+<v Andres Hurtado>pero siempre es importante tener Claro
+cómo el scout de cada de cada historia,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11892-2
+01:03:15.711 --> 01:03:19.826
+<v Andres Hurtado>esto esta más hecho como para el trabajo
+independiente,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11892-3
+01:03:19.826 --> 01:03:23.206
+<v Andres Hurtado>no como tan factorizado en cuando son
+varios.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11946-0
+01:03:24.366 --> 01:03:28.596
+<v Andres Hurtado>Requisitos alrededor del mismo problema,
+o sea,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11946-1
+01:03:28.596 --> 01:03:34.855
+<v Andres Hurtado>tocaría pronto buscar si se pueden unir
+diferentes. Vox, en este caso,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11946-2
+01:03:34.855 --> 01:03:40.408
+<v Andres Hurtado>que estén relacionados,
+pero este digamos que es propende más,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11946-3
+01:03:40.408 --> 01:03:43.846
+<v Andres Hurtado>porque el análisis de por Vox sea como.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11957-0
+01:03:44.126 --> 01:03:47.806
+<v Andres Hurtado>Independiente sea prácticamente como cada
+una historia indivisibles.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11957-1
+01:03:47.806 --> 01:03:49.406
+<v Andres Hurtado>No sé si respondí la pregunta.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11966-0
+01:03:50.766 --> 01:03:54.046
+<v Federico Zea>Sí, sí, muchas gracias por responderme.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11969-0
+01:03:53.126 --> 01:03:54.006
+<v Andres Hurtado>¿Vale Luis?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11991-0
+01:03:55.726 --> 01:03:59.328
+<v Luis Ortiz>¿Qué más? ¿Una pregunta,
+por qué muchas de estrategias de</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/11991-1
+01:03:59.328 --> 01:04:03.366
+<v Luis Ortiz>estimación están, o sea,
+tomar en cuenta puntos en vez de horas?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12044-0
+01:04:05.326 --> 01:04:11.314
+<v Andres Hurtado>Es como un es como un proxy,
+es que muchas veces el equipo es ya</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12044-1
+01:04:11.314 --> 01:04:18.223
+<v Andres Hurtado>depende de la dinámica en la cual se
+trabaje en el equipo, o sea, a veces,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12044-2
+01:04:18.223 --> 01:04:25.686
+<v Andres Hurtado>o sea lo lo más estándar al iniciar es
+trabajar por horas, pero ya cuando la la.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12133-0
+01:04:26.406 --> 01:04:30.338
+<v Andres Hurtado>El equipo tiene cierto, o sea,
+ha trabajado en diferentes proyectos y</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12133-1
+01:04:30.338 --> 01:04:33.427
+<v Andres Hurtado>todo eso optan como por decir bueno,
+es que las horas,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12133-2
+01:04:33.427 --> 01:04:36.573
+<v Andres Hurtado>a veces yo por ejemplo voy a hacer chichi,
+voy a hacer,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12133-3
+01:04:36.573 --> 01:04:41.180
+<v Andres Hurtado>voy a ir al baño y todo eso y eso no me
+eso digamos como que no me está contando.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12133-4
+01:04:41.180 --> 01:04:45.280
+<v Andres Hurtado>Entonces tratan como de estandarizar
+algunas actividades y dejar como un</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12133-5
+01:04:45.280 --> 01:04:46.966
+<v Andres Hurtado>tiempo un poquito más holgado.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12194-0
+01:04:47.286 --> 01:04:50.342
+<v Andres Hurtado>Por eso,
+digamos que a veces se vuelven como tales.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12194-1
+01:04:50.342 --> 01:04:54.573
+<v Andres Hurtado>En puntos tratan de tratan de obtener
+como otro proxy, por decirlo así,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12194-2
+01:04:54.573 --> 01:04:58.394
+<v Andres Hurtado>para identificar la relación del trabajo
+que se está realizando.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12194-3
+01:04:58.394 --> 01:05:03.037
+<v Andres Hurtado>Digamos que aquí es mejor iniciar por por
+horas como para tener una medida más</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12194-4
+01:05:03.037 --> 01:05:06.446
+<v Andres Hurtado>estandarizada y más que esas medidas,
+digamos, de puntos.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12247-0
+01:05:07.646 --> 01:05:13.226
+<v Andres Hurtado>Ya cuando lo trabaja, uno AA alta escala,
+es difícil medir qué sería un punto,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12247-1
+01:05:13.226 --> 01:05:18.594
+<v Andres Hurtado>comparando 22 equipos autoorganizados
+entonces sí pues es, es, es, digamos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12247-2
+01:05:18.594 --> 01:05:22.973
+<v Andres Hurtado>algo que ya depende como tal de la forma
+de trabajo como tal,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12247-3
+01:05:22.973 --> 01:05:25.446
+<v Andres Hurtado>de cada de cada empresa, sí, señor.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12249-0
+01:05:28.726 --> 01:05:29.086
+<v Luis Ortiz>Gracias.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12343-0
+01:05:33.966 --> 01:05:36.688
+<v Andres Hurtado>Y estuve en pero pues bueno,
+como les decía entonces.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12343-1
+01:05:36.688 --> 01:05:40.571
+<v Andres Hurtado>También hay conferencias relacionadas con
+esta parte de puntos funcionales y</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12343-2
+01:05:40.571 --> 01:05:43.949
+<v Andres Hurtado>entonces hay competencias, conferencias.
+¿Bueno, no sé, esa parte,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12343-3
+01:05:43.949 --> 01:05:48.084
+<v Andres Hurtado>no he ido a una conferencia de esas de se
+la pasan contando y a ver usted fue más</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12343-4
+01:05:48.084 --> 01:05:52.219
+<v Andres Hurtado>preciso en esto, fue más preciso, en eso?
+No, no, no, de las imagino, pero bueno.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12343-5
+01:05:52.219 --> 01:05:54.538
+<v Andres Hurtado>O sea,
+digamos que hay temas de investigación</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12343-6
+01:05:54.538 --> 01:05:55.446
+<v Andres Hurtado>alrededor de esto.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12412-0
+01:05:55.966 --> 01:05:59.621
+<v Andres Hurtado>Como para dar, digamos temas,
+pues o temáticas digamos un poco más</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12412-1
+01:05:59.621 --> 01:06:02.677
+<v Andres Hurtado>concretas casos de éxito en esta parte de
+estimaciones,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12412-2
+01:06:02.677 --> 01:06:06.879
+<v Andres Hurtado>pues digamos es bastante interesante como
+tal el tema, pero la idea digamos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12412-3
+01:06:06.879 --> 01:06:11.244
+<v Andres Hurtado>es que entonces queden con la perspectiva
+de de cómo estimar y digamos más más,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12412-4
+01:06:11.244 --> 01:06:14.409
+<v Andres Hurtado>más que estimar,
+y pues que tengan como las bases de cómo</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12412-5
+01:06:14.409 --> 01:06:15.446
+<v Andres Hurtado>hacerlo por debajo.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12421-0
+01:06:18.846 --> 01:06:20.566
+<v Andres Hurtado>Y eso es muchísimas gracias, TIM.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12427-0
+01:06:26.886 --> 01:06:27.846
+<v Andres Hurtado>¿Hola, tienes una pregunta?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12440-0
+01:06:37.286 --> 01:06:39.886
+<v Andres Hurtado>Mi padre está aquí, se estima,
+creo que tenías una pregunta.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12437-0
+01:06:37.526 --> 01:06:37.606
+<v Sebastian Barros>No.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12484-0
+01:06:41.686 --> 01:06:45.334
+<v Paola Cepeda>¿Hola Andrés,
+sí tenía una duda y era nosotros pleno el</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12451-0
+01:06:43.566 --> 01:06:43.726
+<v Andres Hurtado>Hola.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12484-1
+01:06:45.334 --> 01:06:50.350
+<v Paola Cepeda>interior de pronto hay un modelo que se
+utilice o se recomienda o tenemos de</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12484-2
+01:06:50.350 --> 01:06:52.566
+<v Paola Cepeda>pronto algunas plantillas o guías?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12569-0
+01:06:54.006 --> 01:06:57.072
+<v Andres Hurtado>¿No, ahorita no hay guías al respecto,
+Paola,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12569-1
+01:06:57.072 --> 01:07:02.072
+<v Andres Hurtado>digamos que si se ha o sea ahorita
+estamos comenzando con los semilleros a</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12569-2
+01:07:02.072 --> 01:07:07.072
+<v Andres Hurtado>impulsar la práctica de pronto de
+estimación con un planning póker online,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12569-3
+01:07:07.072 --> 01:07:10.339
+<v Andres Hurtado>entonces digamos que en general se sacan,
+o sea,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12569-4
+01:07:10.339 --> 01:07:15.606
+<v Andres Hurtado>tienes como el tu backlog para poder
+iniciar la iteración, entonces se divide,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12569-5
+01:07:15.606 --> 01:07:18.006
+<v Andres Hurtado>digamos cuáles son como el conjunto?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12622-0
+01:07:18.086 --> 01:07:23.680
+<v Andres Hurtado>Historias que vamos a atacar, que cumplan,
+digamos el el de el criterio del</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12622-1
+01:07:23.680 --> 01:07:28.538
+<v Andres Hurtado>definition of ready y ya las las
+comenzamos como tal, AA estimar,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12622-2
+01:07:28.538 --> 01:07:34.133
+<v Andres Hurtado>pero pues digamos que ya el estimado y
+cómo sacarlos las horas que vamos AA</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12622-3
+01:07:34.133 --> 01:07:37.446
+<v Andres Hurtado>fallar AAAAA utilizar ya es digamos como
+la.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12658-0
+01:07:38.446 --> 01:07:41.669
+<v Andres Hurtado>Como la guía por por equipo, pero no hay,
+digamos,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12658-1
+01:07:41.669 --> 01:07:46.598
+<v Andres Hurtado>algo hoy en día estandarizado para para
+hacer esta planeación ni ni esquemas,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12658-2
+01:07:46.598 --> 01:07:49.126
+<v Andres Hurtado>lastimosamente nos toca trabajar en eso.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12660-0
+01:07:51.486 --> 01:07:52.286
+<v Paola Cepeda>Vale, gracias.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12661-0
+01:07:52.966 --> 01:07:53.446
+<v Andres Hurtado>¿Listo?</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12684-0
+01:07:55.686 --> 01:07:59.175
+<v Andres Hurtado>Sí, todos estarán que se estiman,
+entonces, mejor dicho, no hagan, háganle,</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12684-1
+01:07:59.175 --> 01:08:00.966
+<v Andres Hurtado>vayan y se estiman todo lo que quieran.</v>
+
+fa3ba1a7-c88e-45e3-99b3-47922ffd6162/12689-0
+01:08:06.286 --> 01:08:06.966
+<v Andres Hurtado>Chao Chocho.</v>

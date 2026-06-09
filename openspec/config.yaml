@@ -1,0 +1,66 @@
+schema: spec-driven
+
+project: estimationproductsoftware
+persistence: hybrid
+strict_tdd: true
+
+context: |
+  Project shape: documentation/skill-authoring workspace, not a Git repository.
+  Stack: Markdown documentation plus Bash setup/test scripts; no application package manifest detected.
+  Architecture: setup automation for AI assistant skill installation.
+  Testing: Bash unit test runner at skills/setup_test.sh; no coverage/linter/type checker/formatter detected.
+  Style: LLM-first skill documentation conventions in docs/skill-style-guide.md.
+
+testing:
+  detected_at: 2026-06-09
+  strict_tdd: true
+  strict_tdd_reason: "No strict TDD marker/config was detected, but a test runner exists; defaulting to Strict TDD."
+  test_runner:
+    available: true
+    framework: "custom Bash unit test harness"
+    command: "bash skills/setup_test.sh"
+  layers:
+    unit:
+      available: true
+      tool: "skills/setup_test.sh"
+    integration:
+      available: false
+      tool: ""
+    e2e:
+      available: false
+      tool: ""
+  coverage:
+    available: false
+    command: ""
+  quality:
+    linter:
+      available: false
+      command: ""
+    type_checker:
+      available: false
+      command: ""
+    formatter:
+      available: false
+      command: ""
+
+rules:
+  proposal:
+    - Keep scope bounded to one reviewable change.
+  specs:
+    - Use Given/When/Then for scenarios.
+    - Use RFC 2119 keywords for requirements.
+  design:
+    - Document architecture decisions with rationale.
+  tasks:
+    - Keep tasks completable in one session.
+  apply:
+    tdd: true
+    test_command: "bash skills/setup_test.sh"
+    instructions:
+      - Follow existing documentation, shell script, and skill conventions.
+  verify:
+    test_command: "bash skills/setup_test.sh"
+    build_command: ""
+    coverage_threshold: 0
+  archive:
+    - Preserve archived changes as audit trail.
