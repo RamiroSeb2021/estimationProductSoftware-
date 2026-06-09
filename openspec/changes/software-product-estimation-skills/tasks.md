@@ -42,14 +42,14 @@ Chain strategy: pending
 
 ## Phase 2: Core Method Skills — Discovery, Agile, Proxy, FP (PR 2 scope)
 
-- [ ] 2.1 Create `skills/estimation-discovery/SKILL.md` — Activation Contract, Hard Rules (no invented business rules), Execution Steps producing estimation brief, Output Contract, References.
-- [ ] 2.2 Create `skills/estimation-discovery/references/estimation-brief-template.md` — brief sections (problem space, solution space, scope, actors, capabilities, entities, transactions, integrations, NFRs, assumptions, unknowns) and readiness checklist.
-- [ ] 2.3 Create `skills/agile-story-estimation/SKILL.md` — INVEST/DoR readiness check, Planning Poker workflow, `[LOCAL CALIBRATION REQUIRED]` gate, DoD scope inclusion.
-- [ ] 2.4 Create `skills/agile-story-estimation/references/planning-poker-checklist.md` — readiness gate, divergence-trigger rules, cross-team comparison block.
-- [ ] 2.5 Create `skills/proxy-component-estimation/SKILL.md` — component decomposition worksheet, S/M/L class rules, new/modified/refactor distinction, NFR flagging, `[LOCAL PROXY CALIBRATION REQUIRED]` gate.
-- [ ] 2.6 Create `skills/proxy-component-estimation/references/proxy-sizing-guide.md` — S/M/L guidance table, comprehension-cost warning for modified/refactor, AI/integration complexity flags.
-- [ ] 2.7 Create `skills/function-point-estimation/SKILL.md` — ILF/EIF/EI/EO/EQ classification, worksheet-only default, `[COUNTING WORKBOOK REQUIRED]` block, `[HUMAN REVIEW REQUIRED — AI-extracted count]` gate on every AI classification.
-- [ ] 2.8 Create `skills/function-point-estimation/references/counting-workbook.md` — stub with `[STUB — approved tables required before FP counts are emitted]`; no fabricated complexity weights.
+- [x] 2.1 Create `skills/estimation-discovery/SKILL.md` — Activation Contract, Hard Rules (no invented business rules), Execution Steps producing estimation brief, Output Contract, References.
+- [x] 2.2 Create `skills/estimation-discovery/references/estimation-brief-template.md` — brief sections (problem space, solution space, scope, actors, capabilities, entities, transactions, integrations, NFRs, assumptions, unknowns) and readiness checklist.
+- [x] 2.3 Create `skills/agile-story-estimation/SKILL.md` — INVEST/DoR readiness check, Planning Poker workflow, `[LOCAL CALIBRATION REQUIRED]` gate, DoD scope inclusion.
+- [x] 2.4 Create `skills/agile-story-estimation/references/planning-poker-checklist.md` — readiness gate, divergence-trigger rules, cross-team comparison block.
+- [x] 2.5 Create `skills/proxy-component-estimation/SKILL.md` — component decomposition worksheet, S/M/L class rules, new/modified/refactor distinction, NFR flagging, `[LOCAL PROXY CALIBRATION REQUIRED]` gate.
+- [x] 2.6 Create `skills/proxy-component-estimation/references/proxy-sizing-guide.md` — S/M/L guidance table, comprehension-cost warning for modified/refactor, AI/integration complexity flags.
+- [x] 2.7 Create `skills/function-point-estimation/SKILL.md` — ILF/EIF/EI/EO/EQ classification, worksheet-only default, `[COUNTING WORKBOOK REQUIRED]` block, `[HUMAN REVIEW REQUIRED — AI-extracted count]` gate on every AI classification.
+- [x] 2.8 Create `skills/function-point-estimation/references/counting-workbook.md` — stub with `[STUB — approved tables required before FP counts are emitted]`; no fabricated complexity weights.
 
 ## Phase 3: Forecast + Review Skills (PR 3 scope)
 
