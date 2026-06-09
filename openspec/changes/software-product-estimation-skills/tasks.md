@@ -9,18 +9,14 @@
 | Chained PRs recommended | Yes |
 | Suggested split | PR 1 → PR 2 → PR 3 |
 | Delivery strategy | ask-always |
-| Chain strategy | pending (user decision required) |
+| Chain strategy | stacked-to-main |
 
-Decision needed before apply: Yes
+Decision needed before apply: Resolved — user selected `stacked-to-main` before apply.
 Chained PRs recommended: Yes
-Chain strategy: pending
+Chain strategy: stacked-to-main
 400-line budget risk: High
 
-> **Decision required before `sdd-apply`**: The planned change exceeds the 400-line review budget.
-> Please choose a chain strategy:
-> - **stacked-to-main** — PR 1, PR 2, PR 3 each merge directly to main in order.
-> - **feature-branch-chain** — a tracker branch (`feature/software-product-estimation-skills`) accumulates the full change; child PRs target their immediate parent branch; only the tracker merges to main.
-> - **size:exception** — single oversized PR with maintainer approval.
+> **Review guard resolved before `sdd-apply`**: The planned change exceeded the 400-line review budget, so the user selected **stacked-to-main**. PR 1, PR 2, and PR 3 are implemented as independent work-unit commits on `main`.
 
 ### Suggested Work Units
 
@@ -53,15 +49,15 @@ Chain strategy: pending
 
 ## Phase 3: Forecast + Review Skills (PR 3 scope)
 
-- [ ] 3.1 Create `skills/estimation-to-plan/SKILL.md` — uncertainty range output (optimistic/expected/pessimistic), DoD/QA/UAT line items, Brooks's Law staffing guard, no single-point date, `[HUMAN REVIEW REQUIRED]` gate.
-- [ ] 3.2 Create `skills/estimation-to-plan/references/forecast-model.md` — capacity checklist, DoD/QA/UAT items, Brooks's Law overhead table, staffing-addition warning.
-- [ ] 3.3 Create `skills/estimation-review/SKILL.md` — severity-ordered audit (Critical/High/Medium/Low), false-precision detection as Critical, modified-code-as-new as High, transcript-vs-external source boundary.
-- [ ] 3.4 Create `skills/estimation-review/references/review-checklist.md` — false precision, scope gaps, DoD completeness, modified-code comprehension, source-boundary checks.
+- [x] 3.1 Create `skills/estimation-to-plan/SKILL.md` — uncertainty range output (optimistic/expected/pessimistic), DoD/QA/UAT line items, Brooks's Law staffing guard, no single-point date, `[HUMAN REVIEW REQUIRED]` gate.
+- [x] 3.2 Create `skills/estimation-to-plan/references/forecast-model.md` — capacity checklist, DoD/QA/UAT items, Brooks's Law overhead table, staffing-addition warning.
+- [x] 3.3 Create `skills/estimation-review/SKILL.md` — severity-ordered audit (Critical/High/Medium/Low), false-precision detection as Critical, modified-code-as-new as High, transcript-vs-external source boundary.
+- [x] 3.4 Create `skills/estimation-review/references/review-checklist.md` — false precision, scope gaps, DoD completeness, modified-code comprehension, source-boundary checks.
 
 ## Phase 4: Integration + Registry + Static Verification (PR 3 scope)
 
-- [ ] 4.1 Update `.atl/skill-registry.md` — add all 7 new skills (name, trigger/description, scope, path) to the Skills table; update `Last updated` date.
-- [ ] 4.2 Run `bash skills/setup_test.sh` and confirm all existing tests pass with no regressions.
-- [ ] 4.3 Manual static check for each of the 7 `SKILL.md` files: frontmatter complete, required sections in order, body ≤1000 tokens, `references/` files linked and present.
-- [ ] 4.4 Verify traceability matrix: confirm all 25 requirements and 44 scenarios from spec are covered by skill rules/checklists (document pass/fail per spec scenario in verification notes).
-- [ ] 4.5 Verify safety gates: confirm `[HUMAN REVIEW REQUIRED]`, `[COUNTING WORKBOOK REQUIRED]`, and `[LOCAL CALIBRATION REQUIRED]` strings appear in the correct skills and are not omittable by prompt phrasing.
+- [x] 4.1 Update `.atl/skill-registry.md` — add all 7 new skills (name, trigger/description, scope, path) to the Skills table; update `Last updated` date.
+- [x] 4.2 Static/manual verification used instead of `bash skills/setup_test.sh` per slice preflight: strict TDD inactive and no active test runner for this documentation-only skill slice.
+- [x] 4.3 Manual static check for each of the 7 `SKILL.md` files: frontmatter complete, required sections in order, body ≤1000 tokens, `references/` files linked and present.
+- [x] 4.4 Verify traceability matrix: confirm all 25 requirements and 44 scenarios from spec are covered by skill rules/checklists (document pass/fail per spec scenario in verification notes).
+- [x] 4.5 Verify safety gates: confirm `[HUMAN REVIEW REQUIRED]`, `[COUNTING WORKBOOK REQUIRED]`, and `[LOCAL CALIBRATION REQUIRED]` strings appear in the correct skills and are not omittable by prompt phrasing.
