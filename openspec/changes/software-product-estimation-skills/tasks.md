@@ -59,5 +59,5 @@ Chain strategy: stacked-to-main
 - [x] 4.1 Update `.atl/skill-registry.md` — add all 7 new skills (name, trigger/description, scope, path) to the Skills table; update `Last updated` date.
 - [x] 4.2 Static/manual verification used instead of `bash skills/setup_test.sh` per slice preflight: strict TDD inactive and no active test runner for this documentation-only skill slice.
 - [x] 4.3 Manual static check for each of the 7 `SKILL.md` files: frontmatter complete, required sections in order, body ≤1000 tokens, `references/` files linked and present.
-- [x] 4.4 Verify traceability matrix: confirm all 25 requirements and 44 scenarios from spec are covered by skill rules/checklists (document pass/fail per spec scenario in verification notes).
+- [x] 4.4 Verify traceability matrix: confirm all 25 requirements and 39 actual `#### Scenario:` blocks from spec are covered by skill rules/checklists (document pass/fail per spec scenario in verification notes).
 - [x] 4.5 Verify safety gates: confirm `[HUMAN REVIEW REQUIRED]`, `[COUNTING WORKBOOK REQUIRED]`, and `[LOCAL CALIBRATION REQUIRED]` strings appear in the correct skills and are not omittable by prompt phrasing.

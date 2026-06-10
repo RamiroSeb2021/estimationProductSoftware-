@@ -68,7 +68,7 @@ Shared output gates:
 |---|---|---|
 | Static | Frontmatter, required section order, token budget, local references | Manual checklist plus `bash skills/setup_test.sh` where applicable. |
 | Layout | Seven skill directories and expected references | Path/layout review. |
-| Traceability | 25 requirements and 44 scenarios covered by skill rules/checklists | Scenario coverage matrix in verification notes. |
+| Traceability | 25 requirements and 39 actual `#### Scenario:` blocks covered by skill rules/checklists | Scenario coverage matrix in verification notes. |
 | Safety | FP blocks, no single-point estimates, no commitments | Static review of Hard Rules and Output Contracts. |
 
 ## Migration / Rollout
